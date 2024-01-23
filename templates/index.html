@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>MicroPlastics</title>
+        <!-- bootstrap style sheet -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+        <!-- OurCSS -->
+        <link rel="stylesheet" href="/P4_MicroPystics/static/css/styles.css" />
+
+        <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}"> -->
+    </head>
+    <body style="background:#faefe0">
+
+	<!-- <header>
+		<div class="container">
+		    <h2>Micro Plastics in Water </h2>
+	    </div>
+	</header> -->
+
+        <div class="container">
+            <div class ="row">
+                <div style="background:transparent" class="col-md-12 jumbotron text-center">
+                    <img src="https://media4.giphy.com/media/26FKUf6xaZnevRT5C/giphy.gif" class="center"/>
+                    <h1 style="color: #000000; font-family:Optima;">Micro Plastics</h1><br>
+                    <p style="color: #000000; font-family:Optima;">Lots of plastic in the ocean. Its very very bad</p>
+                    <br>
+                    <!-- <p style="color: #4e8983; font-family:Optima;">Lets Test out your Water. Upload an image of your water, to test for microplastics</p> -->
+                  </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row align-items-start">
+                <p style="color: #4e8983; font-family:Optima;">Lets Test out your Water. Upload an image of your water, to test for microplastics</p>
+                    <form action="/predict" method="POST" enctype="multipart/form-data">
+                        <div class="fieldset">
+                            <label style="color: #000000; font-family:Optima; font-size:300%;">Upload Water file  </label>
+                            <input type="file" id="imageUpload" name="exp" accept=".jpg, .jpeg, .png" required>
+                        </div>
+                        <input type="submit" class="btn btn-primary btn-lg" value="predict">
+                    </form>
+            </div>
+
+        </div>
+
+    </body>
+</html>
