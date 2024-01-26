@@ -1,9 +1,13 @@
 ![app_image](https://www.tetratech.com/wp-content/uploads/2023/10/Evaluating-the-Risk-of-Microplastics-in-Coastal-Waters-One-Water.jpg)
 
-# P4_MicroPystics
+# MicroPystics
+![MIT](https://img.shields.io/badge/License-MIT-C7F9CC)
+![contributors](https://img.shields.io/badge/Contributors-5-38A3A5)
+
 
 ## Description
  Using Machine Learning, Image Recognition, and Computer Vision to detect microplastics in water samples.
+
 
  ## Table of Contents
 - [Installation](#installation)
@@ -12,27 +16,25 @@
 - [Dashboard](#dashboard)
 - [Contact](#contact)
 
+
 ## Installation
-To run the model in Google Colab we installed: 
-- tensorflow
-- drive
-- numpy
-- os
-- skimage.color
-- matplotlib  
-  
-For the Flask API to run the following was installed: 
-- os
-- flask
-- tensorflow
-- Pillow
-- numpy
+The following need to be installed to successfully run the model and aPI.  
+
+|Google Colab | Flask API|
+| :-----------|:---------|
+| tensorflow  |tensorflow|
+| drive       | Flask    |
+| numpy       | numpy    |
+| os          | os       |
+|skimage.color| Pillow   |
+| matplotlib  |          |
+
 
 # Data
 
 ## Source Data
 - #### [Microplastic Dataset for Computer Vision, MOHAMADREZA MOMENI:](https://www.kaggle.com/datasets/imtkaggleteam/microplastic-dataset-for-computer-vision)
-- #### Place holder for Aspen data
+- #### [Organisation for Economic CO-Operation and Development](https://stats.oecd.org/viewhtml.aspx?datasetcode=PLASTIC_WASTE_5&lang=en)
 
 # Results and evaluation
 
@@ -41,7 +43,7 @@ For the Flask API to run the following was installed:
 MIT
 
 ## Dashboard
-#### [Tableu Dashboard]
+#### [Tableu Dashboard](https://public.tableau.com/app/profile/aspen.jack/viz/GlobalPlasticPollution2000-2019/FatesbyLocation)
 
 ## Contact
 If there are any questions or concerns, we can be reached at:
