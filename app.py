@@ -12,18 +12,14 @@ from PIL import Image
 import numpy as np
 
 # Create upload file path
-
 upload_folder = "static/upload"
 temp = "model/"
 
 # Create an app
-app = Flask(__name__)
+app = Flask(__name__,static_url_path='/static')
 app.config['upload_folder'] = upload_folder
 
 # Load the model
-#model_path = os.path.abspath("model/microP.h5")
-#model = load_model(model_path)
-#model = load_model(model_path)
 model = tf.keras.models.load_model("model/saved_model")
 
 
