@@ -1,0 +1,1782 @@
+,Location,Plastic end of life fates,Time,Value
+0,Other America,Littered,2000,0.021844
+1,Other America,Littered,2001,0.022556
+2,Other America,Littered,2002,0.023735
+3,Other America,Littered,2003,0.024734
+4,Other America,Littered,2004,0.025961
+5,Other America,Littered,2005,0.026805
+6,Other America,Littered,2006,0.028089
+7,Other America,Littered,2007,0.02942
+8,Other America,Littered,2008,0.029095
+9,Other America,Littered,2009,0.029671
+10,Other America,Littered,2010,0.0313
+11,Other America,Littered,2011,0.032174
+12,Other America,Littered,2012,0.032833
+13,Other America,Littered,2013,0.033879
+14,Other America,Littered,2014,0.034041
+15,Other America,Littered,2015,0.036449
+16,Other America,Littered,2016,0.037174
+17,Other America,Littered,2017,0.037769
+18,Other America,Littered,2018,0.039274
+19,Other America,Littered,2019,0.040186
+20,Asia,Total,2000,5.559237
+21,Asia,Total,2001,6.124187
+22,Asia,Total,2002,6.818249
+23,Asia,Total,2003,7.522466
+24,Asia,Total,2004,8.322068
+25,Asia,Total,2005,9.072405
+26,Asia,Total,2006,9.970658
+27,Asia,Total,2007,10.938322
+28,Asia,Total,2008,11.541578
+29,Asia,Total,2009,12.414548
+30,Asia,Total,2010,13.669616
+31,Asia,Total,2011,14.754169
+32,Asia,Total,2012,15.795122
+33,Asia,Total,2013,16.966469
+34,Asia,Total,2014,18.172365
+35,Asia,Total,2015,19.637074
+36,Asia,Total,2016,20.956341
+37,Asia,Total,2017,22.557034
+38,Asia,Total,2018,24.517797
+39,Asia,Total,2019,25.46238
+40,Asia,Landfilled,2000,3.011471
+41,Asia,Landfilled,2001,3.033074
+42,Asia,Landfilled,2002,3.088715
+43,Asia,Landfilled,2003,3.11647
+44,Asia,Landfilled,2004,3.150764
+45,Asia,Landfilled,2005,3.136741
+46,Asia,Landfilled,2006,3.143761
+47,Asia,Landfilled,2007,3.138926
+48,Asia,Landfilled,2008,3.002892
+49,Asia,Landfilled,2009,2.921184
+50,Asia,Landfilled,2010,2.890513
+51,Asia,Landfilled,2011,2.815645
+52,Asia,Landfilled,2012,2.688641
+53,Asia,Landfilled,2013,2.568249
+54,Asia,Landfilled,2014,2.407567
+55,Asia,Landfilled,2015,2.256119
+56,Asia,Landfilled,2016,2.056114
+57,Asia,Landfilled,2017,1.854827
+58,Asia,Landfilled,2018,1.680675
+59,Asia,Landfilled,2019,1.73161
+60,Oceania,Mismanaged,2000,0.050274
+61,Oceania,Mismanaged,2001,0.053953
+62,Oceania,Mismanaged,2002,0.058243
+63,Oceania,Mismanaged,2003,0.062439
+64,Oceania,Mismanaged,2004,0.066976
+65,Oceania,Mismanaged,2005,0.071014
+66,Oceania,Mismanaged,2006,0.075621
+67,Oceania,Mismanaged,2007,0.080384
+68,Oceania,Mismanaged,2008,0.083206
+69,Oceania,Mismanaged,2009,0.087144
+70,Oceania,Mismanaged,2010,0.092364
+71,Oceania,Mismanaged,2011,0.097318
+72,Oceania,Mismanaged,2012,0.099739
+73,Oceania,Mismanaged,2013,0.105509
+74,Oceania,Mismanaged,2014,0.107727
+75,Oceania,Mismanaged,2015,0.111547
+76,Oceania,Mismanaged,2016,0.115241
+77,Oceania,Mismanaged,2017,0.120137
+78,Oceania,Mismanaged,2018,0.122146
+79,Oceania,Mismanaged,2019,0.124666
+80,Other Eurasia,Incinerated,2000,0.03509
+81,Other Eurasia,Incinerated,2001,0.038005
+82,Other Eurasia,Incinerated,2002,0.04173
+83,Other Eurasia,Incinerated,2003,0.045448
+84,Other Eurasia,Incinerated,2004,0.049723
+85,Other Eurasia,Incinerated,2005,0.053658
+86,Other Eurasia,Incinerated,2006,0.058508
+87,Other Eurasia,Incinerated,2007,0.063743
+88,Other Eurasia,Incinerated,2008,0.066585
+89,Other Eurasia,Incinerated,2009,0.071122
+90,Other Eurasia,Incinerated,2010,0.077627
+91,Other Eurasia,Incinerated,2011,0.083142
+92,Other Eurasia,Incinerated,2012,0.088438
+93,Other Eurasia,Incinerated,2013,0.094321
+94,Other Eurasia,Incinerated,2014,0.099834
+95,Other Eurasia,Incinerated,2015,0.106897
+96,Other Eurasia,Incinerated,2016,0.11336
+97,Other Eurasia,Incinerated,2017,0.120433
+98,Other Eurasia,Incinerated,2018,0.126616
+99,Other Eurasia,Incinerated,2019,0.171116
+100,Middle East & North Africa,Total,2000,6.827318
+101,Middle East & North Africa,Total,2001,7.187149
+102,Middle East & North Africa,Total,2002,7.659865
+103,Middle East & North Africa,Total,2003,8.108797
+104,Middle East & North Africa,Total,2004,8.620644
+105,Middle East & North Africa,Total,2005,9.051582
+106,Middle East & North Africa,Total,2006,9.593216
+107,Middle East & North Africa,Total,2007,10.164215
+108,Middle East & North Africa,Total,2008,10.371866
+109,Middle East & North Africa,Total,2009,10.799096
+110,Middle East & North Africa,Total,2010,11.505343
+111,Middle East & North Africa,Total,2011,12.039532
+112,Middle East & North Africa,Total,2012,12.546322
+113,Middle East & North Africa,Total,2013,13.094199
+114,Middle East & North Africa,Total,2014,13.61
+115,Middle East & North Africa,Total,2015,14.177604
+116,Middle East & North Africa,Total,2016,15.118809
+117,Middle East & North Africa,Total,2017,15.802218
+118,Middle East & North Africa,Total,2018,16.345006
+119,Middle East & North Africa,Total,2019,16.91715
+120,EU,Recycled,2000,0.026501
+121,EU,Recycled,2001,0.030182
+122,EU,Recycled,2002,0.034538
+123,EU,Recycled,2003,0.039024
+124,EU,Recycled,2004,0.044023
+125,EU,Recycled,2005,0.048831
+126,EU,Recycled,2006,0.054403
+127,EU,Recycled,2007,0.060362
+128,EU,Recycled,2008,0.064418
+129,EU,Recycled,2009,0.06985
+130,EU,Recycled,2010,0.077183
+131,EU,Recycled,2011,0.08362
+132,EU,Recycled,2012,0.090165
+133,EU,Recycled,2013,0.097095
+134,EU,Recycled,2014,0.103497
+135,EU,Recycled,2015,0.111699
+136,EU,Recycled,2016,0.119842
+137,EU,Recycled,2017,0.129428
+138,EU,Recycled,2018,0.13828
+139,EU,Recycled,2019,0.147028
+140,Non-EU,Incinerated,2000,0.991601
+141,Non-EU,Incinerated,2001,1.081808
+142,Non-EU,Incinerated,2002,1.192903
+143,Non-EU,Incinerated,2003,1.303685
+144,Non-EU,Incinerated,2004,1.428431
+145,Non-EU,Incinerated,2005,1.542921
+146,Non-EU,Incinerated,2006,1.680025
+147,Non-EU,Incinerated,2007,1.825899
+148,Non-EU,Incinerated,2008,1.906495
+149,Non-EU,Incinerated,2009,2.029509
+150,Non-EU,Incinerated,2010,2.206657
+151,Non-EU,Incinerated,2011,2.353521
+152,Non-EU,Incinerated,2012,2.505559
+153,Non-EU,Incinerated,2013,2.678511
+154,Non-EU,Incinerated,2014,2.813809
+155,Non-EU,Incinerated,2015,2.981903
+156,Non-EU,Incinerated,2016,3.161066
+157,Non-EU,Incinerated,2017,3.382451
+158,Non-EU,Incinerated,2018,3.594269
+159,Non-EU,Incinerated,2019,3.759428
+160,Other America,Incinerated,2000,0.022175
+161,Other America,Incinerated,2001,0.022921
+162,Other America,Incinerated,2002,0.02414
+163,Other America,Incinerated,2003,0.02518
+164,Other America,Incinerated,2004,0.026454
+165,Other America,Incinerated,2005,0.02734
+166,Other America,Incinerated,2006,0.028677
+167,Other America,Incinerated,2007,0.030063
+168,Other America,Incinerated,2008,0.029768
+169,Other America,Incinerated,2009,0.030392
+170,Other America,Incinerated,2010,0.032088
+171,Other America,Incinerated,2011,0.033027
+172,Other America,Incinerated,2012,0.033737
+173,Other America,Incinerated,2013,0.034852
+174,Other America,Incinerated,2014,0.035054
+175,Other America,Incinerated,2015,0.037578
+176,Other America,Incinerated,2016,0.038364
+177,Other America,Incinerated,2017,0.03902
+178,Other America,Incinerated,2018,0.040615
+179,Other America,Incinerated,2019,0.054668
+180,Asia,Landfilled,2000,1.932519
+181,Asia,Landfilled,2001,2.150235
+182,Asia,Landfilled,2002,2.417594
+183,Asia,Landfilled,2003,2.693601
+184,Asia,Landfilled,2004,3.00909
+185,Asia,Landfilled,2005,3.312735
+186,Asia,Landfilled,2006,3.676252
+187,Asia,Landfilled,2007,4.072216
+188,Asia,Landfilled,2008,4.339835
+189,Asia,Landfilled,2009,4.713863
+190,Asia,Landfilled,2010,5.239573
+191,Asia,Landfilled,2011,5.709205
+192,Asia,Landfilled,2012,6.171062
+193,Asia,Landfilled,2013,6.692499
+194,Asia,Landfilled,2014,7.236724
+195,Asia,Landfilled,2015,7.891369
+196,Asia,Landfilled,2016,8.500107
+197,Asia,Landfilled,2017,9.235472
+198,Asia,Landfilled,2018,10.132723
+199,Asia,Landfilled,2019,10.609316
+200,EU,Mismanaged,2000,0.195193
+201,EU,Mismanaged,2001,0.199752
+202,EU,Mismanaged,2002,0.206234
+203,EU,Mismanaged,2003,0.211699
+204,EU,Mismanaged,2004,0.217889
+205,EU,Mismanaged,2005,0.222005
+206,EU,Mismanaged,2006,0.227716
+207,EU,Mismanaged,2007,0.233435
+208,EU,Mismanaged,2008,0.232433
+209,EU,Mismanaged,2009,0.234867
+210,EU,Mismanaged,2010,0.241252
+211,EU,Mismanaged,2011,0.244083
+212,EU,Mismanaged,2012,0.246226
+213,EU,Mismanaged,2013,0.248287
+214,EU,Mismanaged,2014,0.248232
+215,EU,Mismanaged,2015,0.250592
+216,EU,Mismanaged,2016,0.251989
+217,EU,Mismanaged,2017,0.255199
+218,EU,Mismanaged,2018,0.255565
+219,EU,Mismanaged,2019,0.25695
+220,Asia,Total,2000,5.504465
+221,Asia,Total,2001,5.767089
+222,Asia,Total,2002,6.121311
+223,Asia,Total,2003,6.45112
+224,Asia,Total,2004,6.82845
+225,Asia,Total,2005,7.134914
+226,Asia,Total,2006,7.526875
+227,Asia,Total,2007,7.9356
+228,Asia,Total,2008,8.04288
+229,Asia,Total,2009,8.323398
+230,Asia,Total,2010,8.804425
+231,Asia,Total,2011,9.217415
+232,Asia,Total,2012,9.517326
+233,Asia,Total,2013,9.901136
+234,Asia,Total,2014,10.197246
+235,Asia,Total,2015,10.615935
+236,Asia,Total,2016,10.888518
+237,Asia,Total,2017,11.242962
+238,Asia,Total,2018,11.925862
+239,Asia,Total,2019,12.250182
+240,Other Eurasia,Littered,2000,0.020402
+241,Other Eurasia,Littered,2001,0.021497
+242,Other Eurasia,Littered,2002,0.02304
+243,Other Eurasia,Littered,2003,0.024471
+244,Other Eurasia,Littered,2004,0.026153
+245,Other Eurasia,Littered,2005,0.027516
+246,Other Eurasia,Littered,2006,0.029332
+247,Other Eurasia,Littered,2007,0.031249
+248,Other Eurasia,Littered,2008,0.031612
+249,Other Eurasia,Littered,2009,0.03288
+250,Other Eurasia,Littered,2010,0.035162
+251,Other Eurasia,Littered,2011,0.036752
+252,Other Eurasia,Littered,2012,0.038165
+253,Other Eurasia,Littered,2013,0.039819
+254,Other Eurasia,Littered,2014,0.041127
+255,Other Eurasia,Littered,2015,0.04311
+256,Other Eurasia,Littered,2016,0.044653
+257,Other Eurasia,Littered,2017,0.046399
+258,Other Eurasia,Littered,2018,0.047646
+259,Other Eurasia,Littered,2019,0.048614
+260,Oceania,Recycled,2000,0.016475
+261,Oceania,Recycled,2001,0.018856
+262,Oceania,Recycled,2002,0.021716
+263,Oceania,Recycled,2003,0.024791
+264,Oceania,Recycled,2004,0.028302
+265,Oceania,Recycled,2005,0.031852
+266,Oceania,Recycled,2006,0.036013
+267,Oceania,Recycled,2007,0.040621
+268,Oceania,Recycled,2008,0.044397
+269,Oceania,Recycled,2009,0.049224
+270,Oceania,Recycled,2010,0.055415
+271,Oceania,Recycled,2011,0.061935
+272,Oceania,Recycled,2012,0.067306
+273,Oceania,Recycled,2013,0.075553
+274,Oceania,Recycled,2014,0.081905
+275,Oceania,Recycled,2015,0.090467
+276,Oceania,Recycled,2016,0.099474
+277,Oceania,Recycled,2017,0.11038
+278,Oceania,Recycled,2018,0.119763
+279,Oceania,Recycled,2019,0.130055
+280,EU,Total,2000,32.806928
+281,EU,Total,2001,33.776239
+282,EU,Total,2002,35.187828
+283,EU,Total,2003,36.404328
+284,EU,Total,2004,37.80244
+285,EU,Total,2005,38.768764
+286,EU,Total,2006,40.099169
+287,EU,Total,2007,41.440139
+288,EU,Total,2008,41.281443
+289,EU,Total,2009,41.901661
+290,EU,Total,2010,43.432802
+291,EU,Total,2011,44.277868
+292,EU,Total,2012,44.890794
+293,EU,Total,2013,45.709612
+294,EU,Total,2014,45.922969
+295,EU,Total,2015,46.68735
+296,EU,Total,2016,47.40894
+297,EU,Total,2017,48.541291
+298,EU,Total,2018,49.683711
+299,EU,Total,2019,50.671286
+300,Middle East & North Africa,Landfilled,2000,3.459274
+301,Middle East & North Africa,Landfilled,2001,3.654809
+302,Middle East & North Africa,Landfilled,2002,3.909257
+303,Middle East & North Africa,Landfilled,2003,4.153307
+304,Middle East & North Africa,Landfilled,2004,4.431411
+305,Middle East & North Africa,Landfilled,2005,4.669905
+306,Middle East & North Africa,Landfilled,2006,4.967413
+307,Middle East & North Africa,Landfilled,2007,5.282295
+308,Middle East & North Africa,Landfilled,2008,5.410183
+309,Middle East & North Africa,Landfilled,2009,5.65378
+310,Middle East & North Africa,Landfilled,2010,6.045373
+311,Middle East & North Africa,Landfilled,2011,6.349112
+312,Middle East & North Africa,Landfilled,2012,6.640932
+313,Middle East & North Africa,Landfilled,2013,6.956822
+314,Middle East & North Africa,Landfilled,2014,7.257648
+315,Middle East & North Africa,Landfilled,2015,7.58716
+316,Middle East & North Africa,Landfilled,2016,8.119819
+317,Middle East & North Africa,Landfilled,2017,8.518126
+318,Middle East & North Africa,Landfilled,2018,8.842667
+319,Middle East & North Africa,Landfilled,2019,9.160226
+320,Non-EU,Littered,2000,0.017818
+321,Non-EU,Littered,2001,0.018342
+322,Non-EU,Littered,2002,0.019237
+323,Non-EU,Littered,2003,0.019983
+324,Non-EU,Littered,2004,0.020905
+325,Non-EU,Littered,2005,0.021512
+326,Non-EU,Littered,2006,0.022461
+327,Non-EU,Littered,2007,0.023439
+328,Non-EU,Littered,2008,0.023109
+329,Non-EU,Littered,2009,0.023483
+330,Non-EU,Littered,2010,0.024678
+331,Non-EU,Littered,2011,0.025276
+332,Non-EU,Littered,2012,0.025919
+333,Non-EU,Littered,2013,0.026808
+334,Non-EU,Littered,2014,0.027124
+335,Non-EU,Littered,2015,0.027746
+336,Non-EU,Littered,2016,0.028402
+337,Non-EU,Littered,2017,0.029432
+338,Non-EU,Littered,2018,0.030309
+339,Non-EU,Littered,2019,0.031191
+340,Other Africa,Incinerated,2019,0.082107
+341,Asia,Incinerated,2000,0.125411
+342,Asia,Incinerated,2001,0.144614
+343,Asia,Incinerated,2002,0.16833
+344,Asia,Incinerated,2003,0.193788
+345,Asia,Incinerated,2004,0.223416
+346,Asia,Incinerated,2005,0.253366
+347,Asia,Incinerated,2006,0.289396
+348,Asia,Incinerated,2007,0.329532
+349,Asia,Incinerated,2008,0.360013
+350,Asia,Incinerated,2009,0.400827
+351,Asia,Incinerated,2010,0.456726
+352,Asia,Incinerated,2011,0.509363
+353,Asia,Incinerated,2012,0.563194
+354,Asia,Incinerated,2013,0.624204
+355,Asia,Incinerated,2014,0.689116
+356,Asia,Incinerated,2015,0.766749
+357,Asia,Incinerated,2016,0.841779
+358,Asia,Incinerated,2017,0.93125
+359,Asia,Incinerated,2018,1.039834
+360,Asia,Incinerated,2019,1.115846
+361,EU,Landfilled,2000,0.96121
+362,EU,Landfilled,2001,1.001734
+363,EU,Landfilled,2002,1.053779
+364,EU,Landfilled,2003,1.102521
+365,EU,Landfilled,2004,1.157203
+366,EU,Landfilled,2005,1.202942
+367,EU,Landfilled,2006,1.259679
+368,EU,Landfilled,2007,1.318949
+369,EU,Landfilled,2008,1.341545
+370,EU,Landfilled,2009,1.38581
+371,EU,Landfilled,2010,1.456326
+372,EU,Landfilled,2011,1.507974
+373,EU,Landfilled,2012,1.55822
+374,EU,Landfilled,2013,1.611278
+375,EU,Landfilled,2014,1.652526
+376,EU,Landfilled,2015,1.712134
+377,EU,Landfilled,2016,1.767918
+378,EU,Landfilled,2017,1.840215
+379,EU,Landfilled,2018,1.895924
+380,EU,Landfilled,2019,1.958309
+381,Asia,Littered,2000,0.01227
+382,Asia,Littered,2001,0.012745
+383,Asia,Littered,2002,0.013482
+384,Asia,Littered,2003,0.014131
+385,Asia,Littered,2004,0.014913
+386,Asia,Littered,2005,0.015489
+387,Asia,Littered,2006,0.016317
+388,Asia,Littered,2007,0.01718
+389,Asia,Littered,2008,0.01712
+390,Asia,Littered,2009,0.017571
+391,Asia,Littered,2010,0.018608
+392,Asia,Littered,2011,0.019376
+393,Asia,Littered,2012,0.019924
+394,Asia,Littered,2013,0.02071
+395,Asia,Littered,2014,0.02122
+396,Asia,Littered,2015,0.022005
+397,Asia,Littered,2016,0.022361
+398,Asia,Littered,2017,0.022881
+399,Asia,Littered,2018,0.024084
+400,Asia,Littered,2019,0.024566
+401,Other Eurasia,Mismanaged,2000,2.539366
+402,Other Eurasia,Mismanaged,2001,2.691648
+403,Other Eurasia,Mismanaged,2002,2.882637
+404,Other Eurasia,Mismanaged,2003,3.068791
+405,Other Eurasia,Mismanaged,2004,3.27865
+406,Other Eurasia,Mismanaged,2005,3.465766
+407,Other Eurasia,Mismanaged,2006,3.693312
+408,Other Eurasia,Mismanaged,2007,3.93505
+409,Other Eurasia,Mismanaged,2008,4.060371
+410,Other Eurasia,Mismanaged,2009,4.262272
+411,Other Eurasia,Mismanaged,2010,4.549455
+412,Other Eurasia,Mismanaged,2011,4.78453
+413,Other Eurasia,Mismanaged,2012,4.997677
+414,Other Eurasia,Mismanaged,2013,5.227428
+415,Other Eurasia,Mismanaged,2014,5.438804
+416,Other Eurasia,Mismanaged,2015,5.714412
+417,Other Eurasia,Mismanaged,2016,5.959975
+418,Other Eurasia,Mismanaged,2017,6.223548
+419,Other Eurasia,Mismanaged,2018,6.439712
+420,Other Eurasia,Mismanaged,2019,6.562043
+421,Latin America,Incinerated,2000,0.026203
+422,Latin America,Incinerated,2001,0.02823
+423,Latin America,Incinerated,2002,0.030996
+424,Latin America,Incinerated,2003,0.033658
+425,Latin America,Incinerated,2004,0.036808
+426,Latin America,Incinerated,2005,0.039534
+427,Latin America,Incinerated,2006,0.043099
+428,Latin America,Incinerated,2007,0.046922
+429,Latin America,Incinerated,2008,0.048116
+430,Latin America,Incinerated,2009,0.050926
+431,Latin America,Incinerated,2010,0.055383
+432,Latin America,Incinerated,2011,0.05865
+433,Latin America,Incinerated,2012,0.061751
+434,Latin America,Incinerated,2013,0.065393
+435,Latin America,Incinerated,2014,0.06829
+436,Latin America,Incinerated,2015,0.073202
+437,Latin America,Incinerated,2016,0.074354
+438,Latin America,Incinerated,2017,0.076591
+439,Latin America,Incinerated,2018,0.079507
+440,Latin America,Incinerated,2019,0.109527
+441,EU,Landfilled,2000,21.966891
+442,EU,Landfilled,2001,22.097539
+443,EU,Landfilled,2002,22.474946
+444,EU,Landfilled,2003,22.68213
+445,EU,Landfilled,2004,22.955212
+446,EU,Landfilled,2005,22.926138
+447,EU,Landfilled,2006,23.069778
+448,EU,Landfilled,2007,23.171148
+449,EU,Landfilled,2008,22.414008
+450,EU,Landfilled,2009,22.06419
+451,EU,Landfilled,2010,22.146846
+452,EU,Landfilled,2011,21.832117
+453,EU,Landfilled,2012,21.374965
+454,EU,Landfilled,2013,20.988884
+455,EU,Landfilled,2014,20.298755
+456,EU,Landfilled,2015,19.822582
+457,EU,Landfilled,2016,19.305964
+458,EU,Landfilled,2017,18.915927
+459,EU,Landfilled,2018,18.480282
+460,EU,Landfilled,2019,18.813869
+461,Other Africa,Recycled,2000,0.15826
+462,Other Africa,Recycled,2001,0.178806
+463,Other Africa,Recycled,2002,0.204712
+464,Other Africa,Recycled,2003,0.231719
+465,Other Africa,Recycled,2004,0.263191
+466,Other Africa,Recycled,2005,0.293509
+467,Other Africa,Recycled,2006,0.330648
+468,Other Africa,Recycled,2007,0.371522
+469,Other Africa,Recycled,2008,0.396715
+470,Other Africa,Recycled,2009,0.434174
+471,Other Africa,Recycled,2010,0.486237
+472,Other Africa,Recycled,2011,0.532116
+473,Other Africa,Recycled,2012,0.576706
+474,Other Africa,Recycled,2013,0.625352
+475,Other Africa,Recycled,2014,0.671536
+476,Other Africa,Recycled,2015,0.733364
+477,Other Africa,Recycled,2016,0.776651
+478,Other Africa,Recycled,2017,0.823244
+479,Other Africa,Recycled,2018,0.876343
+480,Other Africa,Recycled,2019,0.929337
+481,Non-EU,Mismanaged,2000,1.256187
+482,Non-EU,Mismanaged,2001,1.274711
+483,Non-EU,Mismanaged,2002,1.308761
+484,Non-EU,Mismanaged,2003,1.333602
+485,Non-EU,Mismanaged,2004,1.363537
+486,Non-EU,Mismanaged,2005,1.375757
+487,Non-EU,Mismanaged,2006,1.399711
+488,Non-EU,Mismanaged,2007,1.422149
+489,Non-EU,Mismanaged,2008,1.390156
+490,Non-EU,Mismanaged,2009,1.384839
+491,Non-EU,Mismanaged,2010,1.408236
+492,Non-EU,Mismanaged,2011,1.405175
+493,Non-EU,Mismanaged,2012,1.398682
+494,Non-EU,Mismanaged,2013,1.396987
+495,Non-EU,Mismanaged,2014,1.3709
+496,Non-EU,Mismanaged,2015,1.356361
+497,Non-EU,Mismanaged,2016,1.341227
+498,Non-EU,Mismanaged,2017,1.336966
+499,Non-EU,Mismanaged,2018,1.32153
+500,Non-EU,Mismanaged,2019,1.321256
+501,EU,Total,2000,1.20412
+502,EU,Total,2001,1.254435
+503,EU,Total,2002,1.31925
+504,EU,Total,2003,1.379845
+505,EU,Total,2004,1.447859
+506,EU,Total,2005,1.504465
+507,EU,Total,2006,1.57483
+508,EU,Total,2007,1.648271
+509,EU,Total,2008,1.675276
+510,EU,Total,2009,1.729513
+511,EU,Total,2010,1.816816
+512,EU,Total,2011,1.880252
+513,EU,Total,2012,1.941728
+514,EU,Total,2013,2.006543
+515,EU,Total,2014,2.056549
+516,EU,Total,2015,2.129813
+517,EU,Total,2016,2.19817
+518,EU,Total,2017,2.286959
+519,EU,Total,2018,2.355159
+520,EU,Total,2019,2.432935
+521,Asia,Littered,2000,0.029431
+522,Asia,Littered,2001,0.032098
+523,Asia,Littered,2002,0.035562
+524,Asia,Littered,2003,0.038974
+525,Asia,Littered,2004,0.042935
+526,Asia,Littered,2005,0.046458
+527,Asia,Littered,2006,0.050884
+528,Asia,Littered,2007,0.055625
+529,Asia,Littered,2008,0.057631
+530,Asia,Littered,2009,0.061364
+531,Asia,Littered,2010,0.067587
+532,Asia,Littered,2011,0.072609
+533,Asia,Littered,2012,0.077382
+534,Asia,Littered,2013,0.083079
+535,Asia,Littered,2014,0.088472
+536,Asia,Littered,2015,0.095092
+537,Asia,Littered,2016,0.100485
+538,Asia,Littered,2017,0.107254
+539,Asia,Littered,2018,0.115511
+540,Asia,Littered,2019,0.119188
+541,Asia,Incinerated,2000,1.649779
+542,Asia,Incinerated,2001,1.854014
+543,Asia,Incinerated,2002,2.102326
+544,Asia,Incinerated,2003,2.358219
+545,Asia,Incinerated,2004,2.648324
+546,Asia,Incinerated,2005,2.927418
+547,Asia,Incinerated,2006,3.258924
+548,Asia,Incinerated,2007,3.617327
+549,Asia,Incinerated,2008,3.850682
+550,Asia,Incinerated,2009,4.178079
+551,Asia,Incinerated,2010,4.625774
+552,Asia,Incinerated,2011,5.059242
+553,Asia,Incinerated,2012,5.450052
+554,Asia,Incinerated,2013,5.908859
+555,Asia,Incinerated,2014,6.333149
+556,Asia,Incinerated,2015,6.850512
+557,Asia,Incinerated,2016,7.293018
+558,Asia,Incinerated,2017,7.809137
+559,Asia,Incinerated,2018,8.582843
+560,Asia,Incinerated,2019,8.776591
+561,Latin America,Littered,2000,0.024422
+562,Latin America,Littered,2001,0.026192
+563,Latin America,Littered,2002,0.028637
+564,Latin America,Littered,2003,0.030961
+565,Latin America,Littered,2004,0.033717
+566,Latin America,Littered,2005,0.036053
+567,Latin America,Littered,2006,0.039142
+568,Latin America,Littered,2007,0.042439
+569,Latin America,Littered,2008,0.043279
+570,Latin America,Littered,2009,0.045584
+571,Latin America,Littered,2010,0.049369
+572,Latin America,Littered,2011,0.052031
+573,Latin America,Littered,2012,0.054526
+574,Latin America,Littered,2013,0.057503
+575,Latin America,Littered,2014,0.059762
+576,Latin America,Littered,2015,0.063798
+577,Latin America,Littered,2016,0.064415
+578,Latin America,Littered,2017,0.065998
+579,Latin America,Littered,2018,0.068167
+580,Latin America,Littered,2019,0.070147
+581,Other Africa,Mismanaged,2000,3.612815
+582,Other Africa,Mismanaged,2001,3.87782
+583,Other Africa,Mismanaged,2002,4.225762
+584,Other Africa,Mismanaged,2003,4.561808
+585,Other Africa,Mismanaged,2004,4.950097
+586,Other Africa,Mismanaged,2005,5.284911
+587,Other Africa,Mismanaged,2006,5.708091
+588,Other Africa,Mismanaged,2007,6.157719
+589,Other Africa,Mismanaged,2008,6.325124
+590,Other Africa,Mismanaged,2009,6.664882
+591,Other Africa,Mismanaged,2010,7.19039
+592,Other Africa,Mismanaged,2011,7.589907
+593,Other Africa,Mismanaged,2012,7.947111
+594,Other Africa,Mismanaged,2013,8.336551
+595,Other Africa,Mismanaged,2014,8.664041
+596,Other Africa,Mismanaged,2015,9.147928
+597,Other Africa,Mismanaged,2016,9.381436
+598,Other Africa,Mismanaged,2017,9.643507
+599,Other Africa,Mismanaged,2018,9.966291
+600,Other Africa,Mismanaged,2019,10.251547
+601,Non-EU,Recycled,2000,0.229312
+602,Non-EU,Recycled,2001,0.260817
+603,Non-EU,Recycled,2002,0.298345
+604,Non-EU,Recycled,2003,0.336905
+605,Non-EU,Recycled,2004,0.380211
+606,Non-EU,Recycled,2005,0.421297
+607,Non-EU,Recycled,2006,0.469218
+608,Non-EU,Recycled,2007,0.520385
+609,Non-EU,Recycled,2008,0.553376
+610,Non-EU,Recycled,2009,0.598773
+611,Non-EU,Recycled,2010,0.661411
+612,Non-EU,Recycled,2011,0.716808
+613,Non-EU,Recycled,2012,0.772766
+614,Non-EU,Recycled,2013,0.83429
+615,Non-EU,Recycled,2014,0.884879
+616,Non-EU,Recycled,2015,0.952709
+617,Non-EU,Recycled,2016,1.020662
+618,Non-EU,Recycled,2017,1.101144
+619,Non-EU,Recycled,2018,1.177598
+620,Non-EU,Recycled,2019,1.246805
+621,Other America,Recycled,2000,0.313506
+622,Other America,Recycled,2001,0.341955
+623,Other America,Recycled,2002,0.377361
+624,Other America,Recycled,2003,0.412568
+625,Other America,Recycled,2004,0.452366
+626,Other America,Recycled,2005,0.48842
+627,Other America,Recycled,2006,0.531931
+628,Other America,Recycled,2007,0.578238
+629,Other America,Recycled,2008,0.602041
+630,Other America,Recycled,2009,0.640115
+631,Other America,Recycled,2010,0.696671
+632,Other America,Recycled,2011,0.742939
+633,Other America,Recycled,2012,0.783685
+634,Other America,Recycled,2013,0.831809
+635,Other America,Recycled,2014,0.863291
+636,Other America,Recycled,2015,0.955447
+637,Other America,Recycled,2016,1.005013
+638,Other America,Recycled,2017,1.052668
+639,Other America,Recycled,2018,1.126405
+640,Other America,Recycled,2019,1.183822
+641,Asia,Mismanaged,2000,3.197663
+642,Asia,Mismanaged,2001,3.481906
+643,Asia,Mismanaged,2002,3.830459
+644,Asia,Mismanaged,2003,4.175391
+645,Asia,Mismanaged,2004,4.562681
+646,Asia,Mismanaged,2005,4.912998
+647,Asia,Mismanaged,2006,5.331479
+648,Asia,Mismanaged,2007,5.774192
+649,Asia,Mismanaged,2008,6.016917
+650,Asia,Mismanaged,2009,6.38842
+651,Asia,Mismanaged,2010,6.938955
+652,Asia,Mismanaged,2011,7.387566
+653,Asia,Mismanaged,2012,7.800418
+654,Asia,Mismanaged,2013,8.261432
+655,Asia,Mismanaged,2014,8.723181
+656,Asia,Mismanaged,2015,9.286759
+657,Asia,Mismanaged,2016,9.764632
+658,Asia,Mismanaged,2017,10.353667
+659,Asia,Mismanaged,2018,11.083074
+660,Asia,Mismanaged,2019,11.334832
+661,EU,Littered,2000,0.003678
+662,EU,Littered,2001,0.003802
+663,EU,Littered,2002,0.003995
+664,EU,Littered,2003,0.004162
+665,EU,Littered,2004,0.004361
+666,EU,Littered,2005,0.004501
+667,EU,Littered,2006,0.004704
+668,EU,Littered,2007,0.004914
+669,EU,Littered,2008,0.004883
+670,EU,Littered,2009,0.004984
+671,EU,Littered,2010,0.005245
+672,EU,Littered,2011,0.005388
+673,EU,Littered,2012,0.005521
+674,EU,Littered,2013,0.005696
+675,EU,Littered,2014,0.005799
+676,EU,Littered,2015,0.005979
+677,EU,Littered,2016,0.006134
+678,EU,Littered,2017,0.006362
+679,EU,Littered,2018,0.00655
+680,EU,Littered,2019,0.006771
+681,EU,Incinerated,2000,5.170488
+682,EU,Incinerated,2001,5.811097
+683,EU,Incinerated,2002,6.567894
+684,EU,Incinerated,2003,7.331044
+685,EU,Incinerated,2004,8.174842
+686,EU,Incinerated,2005,8.96587
+687,EU,Incinerated,2006,9.882863
+688,EU,Incinerated,2007,10.849545
+689,EU,Incinerated,2008,11.444401
+690,EU,Incinerated,2009,12.271519
+691,EU,Incinerated,2010,13.407657
+692,EU,Incinerated,2011,14.373093
+693,EU,Incinerated,2012,15.296604
+694,EU,Incinerated,2013,16.326902
+695,EU,Incinerated,2014,17.163419
+696,EU,Incinerated,2015,18.226653
+697,EU,Incinerated,2016,19.319363
+698,EU,Incinerated,2017,20.62482
+699,EU,Incinerated,2018,21.986188
+700,EU,Incinerated,2019,22.350366
+701,Oceania,Total,2000,0.433393
+702,Oceania,Total,2001,0.475684
+703,Oceania,Total,2002,0.525522
+704,Oceania,Total,2003,0.576878
+705,Oceania,Total,2004,0.634053
+706,Oceania,Total,2005,0.68931
+707,Oceania,Total,2006,0.753195
+708,Oceania,Total,2007,0.822158
+709,Oceania,Total,2008,0.874476
+710,Oceania,Total,2009,0.941994
+711,Oceania,Total,2010,1.02791
+712,Oceania,Total,2011,1.116103
+713,Oceania,Total,2012,1.180188
+714,Oceania,Total,2013,1.289649
+715,Oceania,Total,2014,1.361787
+716,Oceania,Total,2015,1.460102
+717,Oceania,Total,2016,1.563965
+718,Oceania,Total,2017,1.693263
+719,Oceania,Total,2018,1.790679
+720,Oceania,Total,2019,1.892815
+721,Latin America,Mismanaged,2000,3.300993
+722,Latin America,Mismanaged,2001,3.522364
+723,Latin America,Mismanaged,2002,3.812602
+724,Latin America,Mismanaged,2003,4.088926
+725,Latin America,Mismanaged,2004,4.405661
+726,Latin America,Mismanaged,2005,4.673355
+727,Latin America,Mismanaged,2006,5.011371
+728,Latin America,Mismanaged,2007,5.366695
+729,Latin America,Mismanaged,2008,5.48438
+730,Latin America,Mismanaged,2009,5.741409
+731,Latin America,Mismanaged,2010,6.13544
+732,Latin America,Mismanaged,2011,6.416618
+733,Latin America,Mismanaged,2012,6.65867
+734,Latin America,Mismanaged,2013,6.927404
+735,Latin America,Mismanaged,2014,7.134898
+736,Latin America,Mismanaged,2015,7.503428
+737,Latin America,Mismanaged,2016,7.568952
+738,Latin America,Mismanaged,2017,7.712183
+739,Latin America,Mismanaged,2018,7.895938
+740,Latin America,Mismanaged,2019,8.089722
+741,EU,Littered,2000,0.067518
+742,EU,Littered,2001,0.0688
+743,EU,Littered,2002,0.071379
+744,EU,Littered,2003,0.073332
+745,EU,Littered,2004,0.075829
+746,EU,Littered,2005,0.077115
+747,EU,Littered,2006,0.079516
+748,EU,Littered,2007,0.081909
+749,EU,Littered,2008,0.079752
+750,EU,Littered,2009,0.079945
+751,EU,Littered,2010,0.082857
+752,EU,Littered,2011,0.083801
+753,EU,Littered,2012,0.084369
+754,EU,Littered,2013,0.085663
+755,EU,Littered,2014,0.085334
+756,EU,Littered,2015,0.08611
+757,EU,Littered,2016,0.08692
+758,EU,Littered,2017,0.08877
+759,EU,Littered,2018,0.090667
+760,EU,Littered,2019,0.092473
+761,Middle East & North Africa,Incinerated,2000,0.027877
+762,Middle East & North Africa,Incinerated,2001,0.029391
+763,Middle East & North Africa,Incinerated,2002,0.031522
+764,Middle East & North Africa,Incinerated,2003,0.03351
+765,Middle East & North Africa,Incinerated,2004,0.03585
+766,Middle East & North Africa,Incinerated,2005,0.037764
+767,Middle East & North Africa,Incinerated,2006,0.040308
+768,Middle East & North Africa,Incinerated,2007,0.043
+769,Middle East & North Africa,Incinerated,2008,0.043586
+770,Middle East & North Africa,Incinerated,2009,0.045416
+771,Middle East & North Africa,Incinerated,2010,0.04884
+772,Middle East & North Africa,Incinerated,2011,0.051322
+773,Middle East & North Africa,Incinerated,2012,0.053755
+774,Middle East & North Africa,Incinerated,2013,0.056551
+775,Middle East & North Africa,Incinerated,2014,0.059016
+776,Middle East & North Africa,Incinerated,2015,0.061726
+777,Middle East & North Africa,Incinerated,2016,0.066562
+778,Middle East & North Africa,Incinerated,2017,0.06997
+779,Middle East & North Africa,Incinerated,2018,0.072601
+780,Middle East & North Africa,Incinerated,2019,0.102777
+781,Non-EU,Total,2000,8.483707
+782,Non-EU,Total,2001,8.810486
+783,Non-EU,Total,2002,9.265545
+784,Non-EU,Total,2003,9.67694
+785,Non-EU,Total,2004,10.149718
+786,Non-EU,Total,2005,10.512578
+787,Non-EU,Total,2006,10.990626
+788,Non-EU,Total,2007,11.484906
+789,Non-EU,Total,2008,11.55098
+790,Non-EU,Total,2009,11.854575
+791,Non-EU,Total,2010,12.436968
+792,Non-EU,Total,2011,12.816305
+793,Non-EU,Total,2012,13.193287
+794,Non-EU,Total,2013,13.647551
+795,Non-EU,Total,2014,13.887411
+796,Non-EU,Total,2015,14.273745
+797,Non-EU,Total,2016,14.682829
+798,Non-EU,Total,2017,15.254011
+799,Non-EU,Total,2018,15.746926
+800,Non-EU,Total,2019,16.234798
+801,Other Africa,Landfilled,2000,1.453495
+802,Other Africa,Landfilled,2001,1.574416
+803,Other Africa,Landfilled,2002,1.731634
+804,Other Africa,Landfilled,2003,1.886626
+805,Other Africa,Landfilled,2004,2.066287
+806,Other Africa,Landfilled,2005,2.226484
+807,Other Africa,Landfilled,2006,2.427328
+808,Other Africa,Landfilled,2007,2.643101
+809,Other Africa,Landfilled,2008,2.739462
+810,Other Africa,Landfilled,2009,2.913276
+811,Other Africa,Landfilled,2010,3.172608
+812,Other Africa,Landfilled,2011,3.380004
+813,Other Africa,Landfilled,2012,3.572269
+814,Other Africa,Landfilled,2013,3.782889
+815,Other Africa,Landfilled,2014,3.968332
+816,Other Africa,Landfilled,2015,4.229538
+817,Other Africa,Landfilled,2016,4.377538
+818,Other Africa,Landfilled,2017,4.54164
+819,Other Africa,Landfilled,2018,4.737664
+820,Other Africa,Landfilled,2019,4.902004
+821,Other America,Mismanaged,2000,1.505486
+822,Other America,Mismanaged,2001,1.548854
+823,Other America,Mismanaged,2002,1.61457
+824,Other America,Mismanaged,2003,1.670867
+825,Other America,Mismanaged,2004,1.736834
+826,Other America,Mismanaged,2005,1.781785
+827,Other America,Mismanaged,2006,1.846043
+828,Other America,Mismanaged,2007,1.911679
+829,Other America,Mismanaged,2008,1.900987
+830,Other America,Mismanaged,2009,1.931246
+831,Other America,Mismanaged,2010,2.008299
+832,Other America,Mismanaged,2011,2.048646
+833,Other America,Mismanaged,2012,2.070533
+834,Other America,Mismanaged,2013,2.107337
+835,Other America,Mismanaged,2014,2.098561
+836,Other America,Mismanaged,2015,2.223751
+837,Other America,Mismanaged,2016,2.244823
+838,Other America,Mismanaged,2017,2.259366
+839,Other America,Mismanaged,2018,2.323883
+840,Other America,Mismanaged,2019,2.337389
+841,Oceania,Landfilled,2000,0.32527
+842,Oceania,Landfilled,2001,0.356914
+843,Oceania,Landfilled,2002,0.394161
+844,Oceania,Landfilled,2003,0.432541
+845,Oceania,Landfilled,2004,0.475248
+846,Oceania,Landfilled,2005,0.516564
+847,Oceania,Landfilled,2006,0.564297
+848,Oceania,Landfilled,2007,0.61582
+849,Oceania,Landfilled,2008,0.655099
+850,Oceania,Landfilled,2009,0.705644
+851,Oceania,Landfilled,2010,0.76977
+852,Oceania,Landfilled,2011,0.835674
+853,Oceania,Landfilled,2012,0.883588
+854,Oceania,Landfilled,2013,0.965448
+855,Oceania,Landfilled,2014,1.019368
+856,Oceania,Landfilled,2015,1.092514
+857,Oceania,Landfilled,2016,1.170018
+858,Oceania,Landfilled,2017,1.26665
+859,Oceania,Landfilled,2018,1.339241
+860,Oceania,Landfilled,2019,1.417077
+861,Other Eurasia,Recycled,2000,0.159436
+862,Other Eurasia,Recycled,2001,0.177405
+863,Other Eurasia,Recycled,2002,0.199487
+864,Other Eurasia,Recycled,2003,0.222252
+865,Other Eurasia,Recycled,2004,0.248173
+866,Other Eurasia,Recycled,2005,0.272986
+867,Other Eurasia,Recycled,2006,0.302626
+868,Other Eurasia,Recycled,2007,0.334808
+869,Other Eurasia,Recycled,2008,0.355723
+870,Other Eurasia,Recycled,2009,0.385391
+871,Other Eurasia,Recycled,2010,0.425815
+872,Other Eurasia,Recycled,2011,0.461834
+873,Other Eurasia,Recycled,2012,0.49643
+874,Other Eurasia,Recycled,2013,0.534135
+875,Other Eurasia,Recycled,2014,0.570526
+876,Other Eurasia,Recycled,2015,0.617758
+877,Other Eurasia,Recycled,2016,0.661115
+878,Other Eurasia,Recycled,2017,0.708417
+879,Other Eurasia,Recycled,2018,0.751458
+880,Other Eurasia,Recycled,2019,0.793023
+881,Middle East & North Africa,Littered,2000,0.024488
+882,Middle East & North Africa,Littered,2001,0.025612
+883,Middle East & North Africa,Littered,2002,0.027269
+884,Middle East & North Africa,Littered,2003,0.028768
+885,Middle East & North Africa,Littered,2004,0.030554
+886,Middle East & North Africa,Littered,2005,0.031936
+887,Middle East & North Africa,Littered,2006,0.033846
+888,Middle East & North Africa,Littered,2007,0.035852
+889,Middle East & North Africa,Littered,2008,0.035983
+890,Middle East & North Africa,Littered,2009,0.037178
+891,Middle East & North Africa,Littered,2010,0.039719
+892,Middle East & North Africa,Littered,2011,0.041416
+893,Middle East & North Africa,Littered,2012,0.043058
+894,Middle East & North Africa,Littered,2013,0.044995
+895,Middle East & North Africa,Littered,2014,0.046604
+896,Middle East & North Africa,Littered,2015,0.048369
+897,Middle East & North Africa,Littered,2016,0.051859
+898,Middle East & North Africa,Littered,2017,0.054119
+899,Middle East & North Africa,Littered,2018,0.055713
+900,Middle East & North Africa,Littered,2019,0.057504
+901,Latin America,Recycled,2000,0.331489
+902,Latin America,Recycled,2001,0.375196
+903,Latin America,Recycled,2002,0.430071
+904,Latin America,Recycled,2003,0.487546
+905,Latin America,Recycled,2004,0.554419
+906,Latin America,Recycled,2005,0.619442
+907,Latin America,Recycled,2006,0.698778
+908,Latin America,Recycled,2007,0.786248
+909,Latin America,Recycled,2008,0.842459
+910,Latin America,Recycled,2009,0.924212
+911,Latin America,Recycled,2010,1.034727
+912,Latin America,Recycled,2011,1.132504
+913,Latin America,Recycled,2012,1.228215
+914,Latin America,Recycled,2013,1.333962
+915,Latin America,Recycled,2014,1.433652
+916,Latin America,Recycled,2015,1.576706
+917,Latin America,Recycled,2016,1.659917
+918,Latin America,Recycled,2017,1.762215
+919,Latin America,Recycled,2018,1.877878
+920,Latin America,Recycled,2019,1.992802
+921,EU,Incinerated,2000,0.017538
+922,EU,Incinerated,2001,0.018965
+923,EU,Incinerated,2002,0.020705
+924,EU,Incinerated,2003,0.02244
+925,EU,Incinerated,2004,0.024383
+926,EU,Incinerated,2005,0.026186
+927,EU,Incinerated,2006,0.028328
+928,EU,Incinerated,2007,0.030611
+929,EU,Incinerated,2008,0.031996
+930,EU,Incinerated,2009,0.034003
+931,EU,Incinerated,2010,0.03681
+932,EU,Incinerated,2011,0.039187
+933,EU,Incinerated,2012,0.041596
+934,EU,Incinerated,2013,0.044187
+935,EU,Incinerated,2014,0.046494
+936,EU,Incinerated,2015,0.049408
+937,EU,Incinerated,2016,0.052287
+938,EU,Incinerated,2017,0.055754
+939,EU,Incinerated,2018,0.05884
+940,EU,Incinerated,2019,0.063877
+941,Non-EU,Landfilled,2000,5.988789
+942,Non-EU,Landfilled,2001,6.174807
+943,Non-EU,Landfilled,2002,6.446299
+944,Non-EU,Landfilled,2003,6.682765
+945,Non-EU,Landfilled,2004,6.956634
+946,Non-EU,Landfilled,2005,7.151091
+947,Non-EU,Landfilled,2006,7.41921
+948,Non-EU,Landfilled,2007,7.693034
+949,Non-EU,Landfilled,2008,7.677844
+950,Non-EU,Landfilled,2009,7.81797
+951,Non-EU,Landfilled,2010,8.135986
+952,Non-EU,Landfilled,2011,8.315525
+953,Non-EU,Landfilled,2012,8.490361
+954,Non-EU,Landfilled,2013,8.710955
+955,Non-EU,Landfilled,2014,8.790699
+956,Non-EU,Landfilled,2015,8.955026
+957,Non-EU,Landfilled,2016,9.131472
+958,Non-EU,Landfilled,2017,9.404018
+959,Non-EU,Landfilled,2018,9.62322
+960,Non-EU,Landfilled,2019,9.876118
+961,Other Africa,Total,2000,5.253922
+962,Other Africa,Total,2001,5.662476
+963,Other Africa,Total,2002,6.196448
+964,Other Africa,Total,2003,6.717239
+965,Other Africa,Total,2004,7.319935
+966,Other Africa,Total,2005,7.848006
+967,Other Africa,Total,2006,8.512831
+968,Other Africa,Total,2007,9.223009
+969,Other Africa,Total,2008,9.512829
+970,Other Africa,Total,2009,10.066513
+971,Other Africa,Total,2010,10.908001
+972,Other Africa,Total,2011,11.564039
+973,Other Africa,Total,2012,12.161154
+974,Other Africa,Total,2013,12.81345
+975,Other Africa,Total,2014,13.375327
+976,Other Africa,Total,2015,14.18654
+977,Other Africa,Total,2016,14.612848
+978,Other Africa,Total,2017,15.087484
+979,Other Africa,Total,2018,15.661993
+980,Other Africa,Total,2019,16.249045
+981,Other America,Landfilled,2000,4.104219
+982,Other America,Landfilled,2001,4.265721
+983,Other America,Landfilled,2002,4.493477
+984,Other America,Landfilled,2003,4.699416
+985,Other America,Landfilled,2004,4.937767
+986,Other America,Landfilled,2005,5.120821
+987,Other America,Landfilled,2006,5.364889
+988,Other America,Landfilled,2007,5.618664
+989,Other America,Landfilled,2008,5.64919
+990,Other America,Landfilled,2009,5.804981
+991,Other America,Landfilled,2010,6.108298
+992,Other America,Landfilled,2011,6.30506
+993,Other America,Landfilled,2012,6.450219
+994,Other America,Landfilled,2013,6.64708
+995,Other America,Landfilled,2014,6.702392
+996,Other America,Landfilled,2015,7.192255
+997,Other America,Landfilled,2016,7.353758
+998,Other America,Landfilled,2017,7.498078
+999,Other America,Landfilled,2018,7.814518
+1000,Other America,Landfilled,2019,7.997318
+1001,Asia,Recycled,2000,0.229828
+1002,Asia,Recycled,2001,0.263792
+1003,Asia,Recycled,2002,0.304547
+1004,Asia,Recycled,2003,0.347038
+1005,Asia,Recycled,2004,0.395239
+1006,Asia,Recycled,2005,0.441905
+1007,Asia,Recycled,2006,0.496708
+1008,Asia,Recycled,2007,0.55591
+1009,Asia,Recycled,2008,0.596139
+1010,Asia,Recycled,2009,0.650744
+1011,Asia,Recycled,2010,0.724876
+1012,Asia,Recycled,2011,0.798455
+1013,Asia,Recycled,2012,0.864444
+1014,Asia,Recycled,2013,0.9391
+1015,Asia,Recycled,2014,1.008836
+1016,Asia,Recycled,2015,1.097589
+1017,Asia,Recycled,2016,1.17305
+1018,Asia,Recycled,2017,1.259005
+1019,Asia,Recycled,2018,1.385336
+1020,Asia,Recycled,2019,1.463308
+1021,Other Eurasia,Total,2000,6.277171
+1022,Other Eurasia,Total,2001,6.659039
+1023,Other Eurasia,Total,2002,7.138507
+1024,Other Eurasia,Total,2003,7.606354
+1025,Other Eurasia,Total,2004,8.134389
+1026,Other Eurasia,Total,2005,8.605881
+1027,Other Eurasia,Total,2006,9.179765
+1028,Other Eurasia,Total,2007,9.78989
+1029,Other Eurasia,Total,2008,10.105997
+1030,Other Eurasia,Total,2009,10.61586
+1031,Other Eurasia,Total,2010,11.342219
+1032,Other Eurasia,Total,2011,11.937538
+1033,Other Eurasia,Total,2012,12.479086
+1034,Other Eurasia,Total,2013,13.064105
+1035,Other Eurasia,Total,2014,13.602164
+1036,Other Eurasia,Total,2015,14.30491
+1037,Other Eurasia,Total,2016,14.930472
+1038,Other Eurasia,Total,2017,15.60294
+1039,Other Eurasia,Total,2018,16.156753
+1040,Other Eurasia,Total,2019,16.64482
+1041,Oceania,Incinerated,2000,0.040503
+1042,Oceania,Incinerated,2001,0.045015
+1043,Oceania,Incinerated,2002,0.050359
+1044,Oceania,Incinerated,2003,0.055969
+1045,Oceania,Incinerated,2004,0.062279
+1046,Oceania,Incinerated,2005,0.068534
+1047,Oceania,Incinerated,2006,0.075801
+1048,Oceania,Incinerated,2007,0.083744
+1049,Oceania,Incinerated,2008,0.090116
+1050,Oceania,Incinerated,2009,0.098217
+1051,Oceania,Incinerated,2010,0.108441
+1052,Oceania,Incinerated,2011,0.119109
+1053,Oceania,Incinerated,2012,0.127393
+1054,Oceania,Incinerated,2013,0.140799
+1055,Oceania,Incinerated,2014,0.150347
+1056,Oceania,Incinerated,2015,0.162978
+1057,Oceania,Incinerated,2016,0.176487
+1058,Oceania,Incinerated,2017,0.193165
+1059,Oceania,Incinerated,2018,0.206472
+1060,Oceania,Incinerated,2019,0.21783
+1061,Latin America,Total,2000,6.223362
+1062,Latin America,Total,2001,6.717312
+1063,Latin America,Total,2002,7.356582
+1064,Latin America,Total,2003,7.983826
+1065,Latin America,Total,2004,8.706709
+1066,Latin America,Total,2005,9.348773
+1067,Latin America,Total,2006,10.150248
+1068,Latin America,Total,2007,11.007745
+1069,Latin America,Total,2008,11.390283
+1070,Latin America,Total,2009,12.07805
+1071,Latin America,Total,2010,13.078401
+1072,Latin America,Total,2011,13.860681
+1073,Latin America,Total,2012,14.578898
+1074,Latin America,Total,2013,15.377147
+1075,Latin America,Total,2014,16.059312
+1076,Latin America,Total,2015,17.134865
+1077,Latin America,Total,2016,17.534104
+1078,Latin America,Total,2017,18.127757
+1079,Latin America,Total,2018,18.836334
+1080,Latin America,Total,2019,19.492385
+1081,Middle East & North Africa,Mismanaged,2000,3.121883
+1082,Middle East & North Africa,Mismanaged,2001,3.263276
+1083,Middle East & North Africa,Mismanaged,2002,3.452754
+1084,Middle East & North Africa,Mismanaged,2003,3.628668
+1085,Middle East & North Africa,Mismanaged,2004,3.829336
+1086,Middle East & North Africa,Mismanaged,2005,3.991293
+1087,Middle East & North Africa,Mismanaged,2006,4.198402
+1088,Middle East & North Africa,Mismanaged,2007,4.41469
+1089,Middle East & North Africa,Mismanaged,2008,4.472405
+1090,Middle East & North Africa,Mismanaged,2009,4.621749
+1091,Middle East & North Africa,Mismanaged,2010,4.885492
+1092,Middle East & North Africa,Mismanaged,2011,5.072754
+1093,Middle East & North Africa,Mismanaged,2012,5.24484
+1094,Middle East & North Africa,Mismanaged,2013,5.430095
+1095,Middle East & North Africa,Mismanaged,2014,5.599134
+1096,Middle East & North Africa,Mismanaged,2015,5.785391
+1097,Middle East & North Africa,Mismanaged,2016,6.118184
+1098,Middle East & North Africa,Mismanaged,2017,6.342768
+1099,Middle East & North Africa,Mismanaged,2018,6.506718
+1100,Middle East & North Africa,Mismanaged,2019,6.675025
+1101,Other Africa,Littered,2000,0.029352
+1102,Other Africa,Littered,2001,0.031434
+1103,Other Africa,Littered,2002,0.03434
+1104,Other Africa,Littered,2003,0.037086
+1105,Other Africa,Littered,2004,0.04036
+1106,Other Africa,Littered,2005,0.043102
+1107,Other Africa,Littered,2006,0.046764
+1108,Other Africa,Littered,2007,0.050668
+1109,Other Africa,Littered,2008,0.051528
+1110,Other Africa,Littered,2009,0.054181
+1111,Other Africa,Littered,2010,0.058766
+1112,Other Africa,Littered,2011,0.062012
+1113,Other Africa,Littered,2012,0.065068
+1114,Other Africa,Littered,2013,0.068658
+1115,Other Africa,Littered,2014,0.071418
+1116,Other Africa,Littered,2015,0.07571
+1117,Other Africa,Littered,2016,0.077222
+1118,Other Africa,Littered,2017,0.079093
+1119,Other Africa,Littered,2018,0.081695
+1120,Other Africa,Littered,2019,0.084051
+1121,Asia,Recycled,2000,0.274212
+1122,Asia,Recycled,2001,0.315333
+1123,Asia,Recycled,2002,0.366303
+1124,Asia,Recycled,2003,0.420711
+1125,Asia,Recycled,2004,0.483947
+1126,Asia,Recycled,2005,0.546848
+1127,Asia,Recycled,2006,0.622647
+1128,Asia,Recycled,2007,0.706757
+1129,Asia,Recycled,2008,0.767181
+1130,Asia,Recycled,2009,0.850076
+1131,Asia,Recycled,2010,0.966776
+1132,Asia,Recycled,2011,1.075426
+1133,Asia,Recycled,2012,1.183065
+1134,Asia,Recycled,2013,1.305255
+1135,Asia,Recycled,2014,1.434872
+1136,Asia,Recycled,2015,1.597105
+1137,Asia,Recycled,2016,1.749339
+1138,Asia,Recycled,2017,1.92939
+1139,Asia,Recycled,2018,2.146655
+1140,Asia,Recycled,2019,2.283199
+1141,Other America,Total,2000,5.967231
+1142,Other America,Total,2001,6.202006
+1143,Other America,Total,2002,6.533283
+1144,Other America,Total,2003,6.832764
+1145,Other America,Total,2004,7.179382
+1146,Other America,Total,2005,7.445171
+1147,Other America,Total,2006,7.79963
+1148,Other America,Total,2007,8.168064
+1149,Other America,Total,2008,8.21108
+1150,Other America,Total,2009,8.436405
+1151,Other America,Total,2010,8.876656
+1152,Other America,Total,2011,9.161847
+1153,Other America,Total,2012,9.371007
+1154,Other America,Total,2013,9.654957
+1155,Other America,Total,2014,9.733339
+1156,Other America,Total,2015,10.445481
+1157,Other America,Total,2016,10.679133
+1158,Other America,Total,2017,10.8869
+1159,Other America,Total,2018,11.344694
+1160,Other America,Total,2019,11.613382
+1161,Asia,Mismanaged,2000,0.601118
+1162,Asia,Mismanaged,2001,0.603463
+1163,Asia,Mismanaged,2002,0.612241
+1164,Asia,Mismanaged,2003,0.615263
+1165,Asia,Mismanaged,2004,0.619209
+1166,Asia,Mismanaged,2005,0.61336
+1167,Asia,Mismanaged,2006,0.611166
+1168,Asia,Mismanaged,2007,0.606257
+1169,Asia,Mismanaged,2008,0.576047
+1170,Asia,Mismanaged,2009,0.555821
+1171,Asia,Mismanaged,2010,0.544655
+1172,Asia,Mismanaged,2011,0.524697
+1173,Asia,Mismanaged,2012,0.494264
+1174,Asia,Mismanaged,2013,0.464218
+1175,Asia,Mismanaged,2014,0.426475
+1176,Asia,Mismanaged,2015,0.38971
+1177,Asia,Mismanaged,2016,0.343975
+1178,Asia,Mismanaged,2017,0.297112
+1179,Asia,Mismanaged,2018,0.252924
+1180,Asia,Mismanaged,2019,0.254107
+1181,EU,Recycled,2000,1.62886
+1182,EU,Recycled,2001,1.838617
+1183,EU,Recycled,2002,2.085776
+1184,EU,Recycled,2003,2.335742
+1185,EU,Recycled,2004,2.612599
+1186,EU,Recycled,2005,2.869682
+1187,EU,Recycled,2006,3.165603
+1188,EU,Recycled,2007,3.475983
+1189,EU,Recycled,2008,3.665327
+1190,EU,Recycled,2009,3.927074
+1191,EU,Recycled,2010,4.290514
+1192,EU,Recycled,2011,4.604755
+1193,EU,Recycled,2012,4.897937
+1194,EU,Recycled,2013,5.212043
+1195,EU,Recycled,2014,5.466744
+1196,EU,Recycled,2015,5.80231
+1197,EU,Recycled,2016,6.115516
+1198,EU,Recycled,2017,6.487726
+1199,EU,Recycled,2018,6.87217
+1200,EU,Recycled,2019,7.193393
+1201,Other Eurasia,Landfilled,2000,3.522878
+1202,Other Eurasia,Landfilled,2001,3.730482
+1203,Other Eurasia,Landfilled,2002,3.991612
+1204,Other Eurasia,Landfilled,2003,4.245391
+1205,Other Eurasia,Landfilled,2004,4.53169
+1206,Other Eurasia,Landfilled,2005,4.785955
+1207,Other Eurasia,Landfilled,2006,5.095988
+1208,Other Eurasia,Landfilled,2007,5.42504
+1209,Other Eurasia,Landfilled,2008,5.591705
+1210,Other Eurasia,Landfilled,2009,5.864195
+1211,Other Eurasia,Landfilled,2010,6.254161
+1212,Other Eurasia,Landfilled,2011,6.57128
+1213,Other Eurasia,Landfilled,2012,6.858376
+1214,Other Eurasia,Landfilled,2013,7.168402
+1215,Other Eurasia,Landfilled,2014,7.451873
+1216,Other Eurasia,Landfilled,2015,7.822733
+1217,Other Eurasia,Landfilled,2016,8.151369
+1218,Other Eurasia,Landfilled,2017,8.504143
+1219,Other Eurasia,Landfilled,2018,8.791321
+1220,Other Eurasia,Landfilled,2019,9.070024
+1221,Oceania,Littered,2000,0.000871
+1222,Oceania,Littered,2001,0.000947
+1223,Oceania,Littered,2002,0.001043
+1224,Oceania,Littered,2003,0.001138
+1225,Oceania,Littered,2004,0.001247
+1226,Oceania,Littered,2005,0.001345
+1227,Oceania,Littered,2006,0.001463
+1228,Oceania,Littered,2007,0.001589
+1229,Oceania,Littered,2008,0.001658
+1230,Oceania,Littered,2009,0.001765
+1231,Oceania,Littered,2010,0.001921
+1232,Oceania,Littered,2011,0.002067
+1233,Oceania,Littered,2012,0.002162
+1234,Oceania,Littered,2013,0.002339
+1235,Oceania,Littered,2014,0.002441
+1236,Oceania,Littered,2015,0.002596
+1237,Oceania,Littered,2016,0.002746
+1238,Oceania,Littered,2017,0.00293
+1239,Oceania,Littered,2018,0.003057
+1240,Oceania,Littered,2019,0.003187
+1241,Latin America,Landfilled,2000,2.540255
+1242,Latin America,Landfilled,2001,2.76533
+1243,Latin America,Landfilled,2002,3.054276
+1244,Latin America,Landfilled,2003,3.342734
+1245,Latin America,Landfilled,2004,3.676104
+1246,Latin America,Landfilled,2005,3.980388
+1247,Latin America,Landfilled,2006,4.357858
+1248,Latin America,Landfilled,2007,4.765441
+1249,Latin America,Landfilled,2008,4.972049
+1250,Latin America,Landfilled,2009,5.31592
+1251,Latin America,Landfilled,2010,5.803482
+1252,Latin America,Landfilled,2011,6.200877
+1253,Latin America,Landfilled,2012,6.575735
+1254,Latin America,Landfilled,2013,6.992885
+1255,Latin America,Landfilled,2014,7.362711
+1256,Latin America,Landfilled,2015,7.917731
+1257,Latin America,Landfilled,2016,8.166467
+1258,Latin America,Landfilled,2017,8.510771
+1259,Latin America,Landfilled,2018,8.914843
+1260,Latin America,Landfilled,2019,9.230186
+1261,EU,Mismanaged,2000,3.973171
+1262,EU,Mismanaged,2001,3.960186
+1263,EU,Mismanaged,2002,3.987832
+1264,EU,Mismanaged,2003,3.982081
+1265,EU,Mismanaged,2004,3.983958
+1266,EU,Mismanaged,2005,3.929959
+1267,EU,Mismanaged,2006,3.901409
+1268,EU,Mismanaged,2007,3.861554
+1269,EU,Mismanaged,2008,3.677954
+1270,EU,Mismanaged,2009,3.558933
+1271,EU,Mismanaged,2010,3.504928
+1272,EU,Mismanaged,2011,3.384102
+1273,EU,Mismanaged,2012,3.23692
+1274,EU,Mismanaged,2013,3.096118
+1275,EU,Mismanaged,2014,2.908716
+1276,EU,Mismanaged,2015,2.749696
+1277,EU,Mismanaged,2016,2.581177
+1278,EU,Mismanaged,2017,2.424047
+1279,EU,Mismanaged,2018,2.254403
+1280,EU,Mismanaged,2019,2.221185
+1281,Middle East & North Africa,Recycled,2000,0.193797
+1282,Middle East & North Africa,Recycled,2001,0.214061
+1283,Middle East & North Africa,Recycled,2002,0.239064
+1284,Middle East & North Africa,Recycled,2003,0.264545
+1285,Middle East & North Africa,Recycled,2004,0.293493
+1286,Middle East & North Africa,Recycled,2005,0.320683
+1287,Middle East & North Africa,Recycled,2006,0.353247
+1288,Middle East & North Africa,Recycled,2007,0.388379
+1289,Middle East & North Africa,Recycled,2008,0.409708
+1290,Middle East & North Africa,Recycled,2009,0.440973
+1291,Middle East & North Africa,Recycled,2010,0.485918
+1292,Middle East & North Africa,Recycled,2011,0.524927
+1293,Middle East & North Africa,Recycled,2012,0.563737
+1294,Middle East & North Africa,Recycled,2013,0.605736
+1295,Middle East & North Africa,Recycled,2014,0.647598
+1296,Middle East & North Africa,Recycled,2015,0.694957
+1297,Middle East & North Africa,Recycled,2016,0.762385
+1298,Middle East & North Africa,Recycled,2017,0.817235
+1299,Middle East & North Africa,Recycled,2018,0.867307
+1300,Middle East & North Africa,Recycled,2019,0.921618
+1301,United States,Recycled,2000,1.098544
+1302,United States,Recycled,2001,1.184984
+1303,United States,Recycled,2002,1.291648
+1304,United States,Recycled,2003,1.396021
+1305,United States,Recycled,2004,1.512825
+1306,United States,Recycled,2005,1.614403
+1307,United States,Recycled,2006,1.735224
+1308,United States,Recycled,2007,1.861229
+1309,United States,Recycled,2008,1.919682
+1310,United States,Recycled,2009,2.016496
+1311,United States,Recycled,2010,2.164681
+1312,United States,Recycled,2011,2.284132
+1313,United States,Recycled,2012,2.390964
+1314,United States,Recycled,2013,2.497642
+1315,United States,Recycled,2014,2.587828
+1316,United States,Recycled,2015,2.70853
+1317,United States,Recycled,2016,2.864726
+1318,United States,Recycled,2017,2.980488
+1319,United States,Recycled,2018,3.123337
+1320,United States,Recycled,2019,3.26975
+1321,United States,Incinerated,2000,7.151613
+1322,United States,Incinerated,2001,7.466014
+1323,United States,Incinerated,2002,7.883364
+1324,United States,Incinerated,2003,8.267798
+1325,United States,Incinerated,2004,8.701623
+1326,United States,Incinerated,2005,9.047242
+1327,United States,Incinerated,2006,9.484988
+1328,United States,Incinerated,2007,9.937044
+1329,United States,Incinerated,2008,10.044827
+1330,United States,Incinerated,2009,10.342247
+1331,United States,Incinerated,2010,10.865699
+1332,United States,Incinerated,2011,11.222986
+1333,United States,Incinerated,2012,11.532263
+1334,United States,Incinerated,2013,11.859049
+1335,United States,Incinerated,2014,12.097834
+1336,United States,Incinerated,2015,12.415617
+1337,United States,Incinerated,2016,12.909279
+1338,United States,Incinerated,2017,13.213204
+1339,United States,Incinerated,2018,13.625549
+1340,United States,Incinerated,2019,13.897049
+1341,United States,Landfilled,2000,34.858035
+1342,United States,Landfilled,2001,35.868928
+1343,United States,Landfilled,2002,37.328596
+1344,United States,Landfilled,2003,38.59423
+1345,United States,Landfilled,2004,40.045662
+1346,United States,Landfilled,2005,41.059394
+1347,United States,Landfilled,2006,42.448065
+1348,United States,Landfilled,2007,43.859363
+1349,United States,Landfilled,2008,43.756935
+1350,United States,Landfilled,2009,44.455845
+1351,United States,Landfilled,2010,46.075965
+1352,United States,Landfilled,2011,46.965328
+1353,United States,Landfilled,2012,47.629207
+1354,United States,Landfilled,2013,48.33828
+1355,United States,Landfilled,2014,48.680115
+1356,United States,Landfilled,2015,49.323586
+1357,United States,Landfilled,2016,50.635927
+1358,United States,Landfilled,2017,51.174166
+1359,United States,Landfilled,2018,52.106584
+1360,United States,Landfilled,2019,53.086564
+1361,United States,Mismanaged,2000,3.638777
+1362,United States,Mismanaged,2001,3.641029
+1363,United States,Mismanaged,2002,3.680473
+1364,United States,Mismanaged,2003,3.692642
+1365,United States,Mismanaged,2004,3.713553
+1366,United States,Mismanaged,2005,3.685981
+1367,United States,Mismanaged,2006,3.683387
+1368,United States,Mismanaged,2007,3.673731
+1369,United States,Mismanaged,2008,3.534963
+1370,United States,Mismanaged,2009,3.457134
+1371,United States,Mismanaged,2010,3.442054
+1372,United States,Mismanaged,2011,3.364751
+1373,United States,Mismanaged,2012,3.264327
+1374,United States,Mismanaged,2013,3.160712
+1375,United States,Mismanaged,2014,3.030476
+1376,United States,Mismanaged,2015,2.91632
+1377,United States,Mismanaged,2016,2.835037
+1378,United States,Mismanaged,2017,2.703756
+1379,United States,Mismanaged,2018,2.587329
+1380,United States,Mismanaged,2019,2.448288
+1381,United States,Littered,2000,0.09777
+1382,United States,Littered,2001,0.099953
+1383,United States,Littered,2002,0.103937
+1384,United States,Littered,2003,0.107097
+1385,United States,Littered,2004,0.111022
+1386,United States,Littered,2005,0.11328
+1387,United States,Littered,2006,0.117093
+1388,United States,Littered,2007,0.120936
+1389,United States,Littered,2008,0.118507
+1390,United States,Littered,2009,0.119358
+1391,United States,Littered,2010,0.123973
+1392,United States,Littered,2011,0.125776
+1393,United States,Littered,2012,0.127054
+1394,United States,Littered,2013,0.128924
+1395,United States,Littered,2014,0.12914
+1396,United States,Littered,2015,0.130204
+1397,United States,Littered,2016,0.133172
+1398,United States,Littered,2017,0.134351
+1399,United States,Littered,2018,0.136877
+1400,United States,Littered,2019,0.139407
+1401,United States,Total,2000,46.844739
+1402,United States,Total,2001,48.260908
+1403,United States,Total,2002,50.28802
+1404,United States,Total,2003,52.057788
+1405,United States,Total,2004,54.084685
+1406,United States,Total,2005,55.5203
+1407,United States,Total,2006,57.468756
+1408,United States,Total,2007,59.452303
+1409,United States,Total,2008,59.374914
+1410,United States,Total,2009,60.391081
+1411,United States,Total,2010,62.672372
+1412,United States,Total,2011,63.962973
+1413,United States,Total,2012,64.943815
+1414,United States,Total,2013,65.984607
+1415,United States,Total,2014,66.525393
+1416,United States,Total,2015,67.494258
+1417,United States,Total,2016,69.378141
+1418,United States,Total,2017,70.205965
+1419,United States,Total,2018,71.579676
+1420,United States,Total,2019,72.841058
+1421,Canada,Recycled,2000,0.127029
+1422,Canada,Recycled,2001,0.138619
+1423,Canada,Recycled,2002,0.152728
+1424,Canada,Recycled,2003,0.166722
+1425,Canada,Recycled,2004,0.182366
+1426,Canada,Recycled,2005,0.196315
+1427,Canada,Recycled,2006,0.212765
+1428,Canada,Recycled,2007,0.23002
+1429,Canada,Recycled,2008,0.238978
+1430,Canada,Recycled,2009,0.252816
+1431,Canada,Recycled,2010,0.2733
+1432,Canada,Recycled,2011,0.290475
+1433,Canada,Recycled,2012,0.305559
+1434,Canada,Recycled,2013,0.321601
+1435,Canada,Recycled,2014,0.335891
+1436,Canada,Recycled,2015,0.354606
+1437,Canada,Recycled,2016,0.370701
+1438,Canada,Recycled,2017,0.390651
+1439,Canada,Recycled,2018,0.410013
+1440,Canada,Recycled,2019,0.42892
+1441,Canada,Incinerated,2000,0.151097
+1442,Canada,Incinerated,2001,0.156862
+1443,Canada,Incinerated,2002,0.164828
+1444,Canada,Incinerated,2003,0.172013
+1445,Canada,Incinerated,2004,0.18022
+1446,Canada,Incinerated,2005,0.18649
+1447,Canada,Incinerated,2006,0.194709
+1448,Canada,Incinerated,2007,0.203178
+1449,Canada,Incinerated,2008,0.204259
+1450,Canada,Incinerated,2009,0.209382
+1451,Canada,Incinerated,2010,0.219283
+1452,Canada,Incinerated,2011,0.225832
+1453,Canada,Incinerated,2012,0.230889
+1454,Canada,Incinerated,2013,0.237054
+1455,Canada,Incinerated,2014,0.241876
+1456,Canada,Incinerated,2015,0.248394
+1457,Canada,Incinerated,2016,0.252534
+1458,Canada,Incinerated,2017,0.260052
+1459,Canada,Incinerated,2018,0.266649
+1460,Canada,Incinerated,2019,0.273282
+1461,Canada,Landfilled,2000,3.386902
+1462,Canada,Landfilled,2001,3.49591
+1463,Canada,Landfilled,2002,3.649937
+1464,Canada,Landfilled,2003,3.785881
+1465,Canada,Landfilled,2004,3.94134
+1466,Canada,Landfilled,2005,4.054461
+1467,Canada,Landfilled,2006,4.206085
+1468,Canada,Landfilled,2007,4.361217
+1469,Canada,Landfilled,2008,4.365033
+1470,Canada,Landfilled,2009,4.450204
+1471,Canada,Landfilled,2010,4.630027
+1472,Canada,Landfilled,2011,4.740612
+1473,Canada,Landfilled,2012,4.818247
+1474,Canada,Landfilled,2013,4.915739
+1475,Canada,Landfilled,2014,4.987383
+1476,Canada,Landfilled,2015,5.092917
+1477,Canada,Landfilled,2016,5.145813
+1478,Canada,Landfilled,2017,5.265962
+1479,Canada,Landfilled,2018,5.366679
+1480,Canada,Landfilled,2019,5.454918
+1481,Canada,Mismanaged,2000,0.485324
+1482,Canada,Mismanaged,2001,0.490428
+1483,Canada,Mismanaged,2002,0.500955
+1484,Canada,Mismanaged,2003,0.50812
+1485,Canada,Mismanaged,2004,0.516935
+1486,Canada,Mismanaged,2005,0.519342
+1487,Canada,Mismanaged,2006,0.525742
+1488,Canada,Mismanaged,2007,0.531595
+1489,Canada,Mismanaged,2008,0.518693
+1490,Canada,Mismanaged,2009,0.515015
+1491,Canada,Mismanaged,2010,0.521308
+1492,Canada,Mismanaged,2011,0.518913
+1493,Canada,Mismanaged,2012,0.512165
+1494,Canada,Mismanaged,2013,0.506808
+1495,Canada,Mismanaged,2014,0.498246
+1496,Canada,Mismanaged,2015,0.492557
+1497,Canada,Mismanaged,2016,0.481545
+1498,Canada,Mismanaged,2017,0.47597
+1499,Canada,Mismanaged,2018,0.467924
+1500,Canada,Mismanaged,2019,0.461986
+1501,Canada,Littered,2000,0.008696
+1502,Canada,Littered,2001,0.008903
+1503,Canada,Littered,2002,0.009273
+1504,Canada,Littered,2003,0.00957
+1505,Canada,Littered,2004,0.009938
+1506,Canada,Littered,2005,0.010157
+1507,Canada,Littered,2006,0.010518
+1508,Canada,Littered,2007,0.010884
+1509,Canada,Littered,2008,0.010683
+1510,Canada,Littered,2009,0.010779
+1511,Canada,Littered,2010,0.011222
+1512,Canada,Littered,2011,0.011418
+1513,Canada,Littered,2012,0.011539
+1514,Canada,Littered,2013,0.011754
+1515,Canada,Littered,2014,0.01186
+1516,Canada,Littered,2015,0.012051
+1517,Canada,Littered,2016,0.012089
+1518,Canada,Littered,2017,0.012348
+1519,Canada,Littered,2018,0.01255
+1520,Canada,Littered,2019,0.012739
+1521,Canada,Total,2000,4.159048
+1522,Canada,Total,2001,4.290722
+1523,Canada,Total,2002,4.477721
+1524,Canada,Total,2003,4.642306
+1525,Canada,Total,2004,4.830799
+1526,Canada,Total,2005,4.966765
+1527,Canada,Total,2006,5.149819
+1528,Canada,Total,2007,5.336895
+1529,Canada,Total,2008,5.337646
+1530,Canada,Total,2009,5.438196
+1531,Canada,Total,2010,5.655139
+1532,Canada,Total,2011,5.787249
+1533,Canada,Total,2012,5.878398
+1534,Canada,Total,2013,5.992956
+1535,Canada,Total,2014,6.075256
+1536,Canada,Total,2015,6.200524
+1537,Canada,Total,2016,6.262683
+1538,Canada,Total,2017,6.404984
+1539,Canada,Total,2018,6.523816
+1540,Canada,Total,2019,6.631845
+1541,China,Recycled,2000,0.819305
+1542,China,Recycled,2001,0.978061
+1543,China,Recycled,2002,1.175594
+1544,China,Recycled,2003,1.390838
+1545,China,Recycled,2004,1.644125
+1546,China,Recycled,2005,1.902358
+1547,China,Recycled,2006,2.21566
+1548,China,Recycled,2007,2.56735
+1549,China,Recycled,2008,2.828085
+1550,China,Recycled,2009,3.182728
+1551,China,Recycled,2010,3.673289
+1552,China,Recycled,2011,4.150221
+1553,China,Recycled,2012,4.619764
+1554,China,Recycled,2013,5.108443
+1555,China,Recycled,2014,5.661463
+1556,China,Recycled,2015,6.255403
+1557,China,Recycled,2016,6.801136
+1558,China,Recycled,2017,7.363416
+1559,China,Recycled,2018,7.792353
+1560,China,Recycled,2019,8.376888
+1561,China,Incinerated,2000,1.511666
+1562,China,Incinerated,2001,1.803924
+1563,China,Incinerated,2002,2.168121
+1564,China,Incinerated,2003,2.566184
+1565,China,Incinerated,2004,3.035372
+1566,China,Incinerated,2005,3.518244
+1567,China,Incinerated,2006,4.105111
+1568,China,Incinerated,2007,4.766192
+1569,China,Incinerated,2008,5.268875
+1570,China,Incinerated,2009,5.947425
+1571,China,Incinerated,2010,6.874876
+1572,China,Incinerated,2011,7.783855
+1573,China,Incinerated,2012,8.685457
+1574,China,Incinerated,2013,9.629737
+1575,China,Incinerated,2014,10.752291
+1576,China,Incinerated,2015,11.857089
+1577,China,Incinerated,2016,12.932418
+1578,China,Incinerated,2017,14.093147
+1579,China,Incinerated,2018,14.931927
+1580,China,Incinerated,2019,15.550022
+1581,China,Landfilled,2000,4.385828
+1582,China,Landfilled,2001,4.904224
+1583,China,Landfilled,2002,5.555359
+1584,China,Landfilled,2003,6.229594
+1585,China,Landfilled,2004,7.011468
+1586,China,Landfilled,2005,7.763701
+1587,China,Landfilled,2006,8.681941
+1588,China,Landfilled,2007,9.689794
+1589,China,Landfilled,2008,10.329424
+1590,China,Landfilled,2009,11.267118
+1591,China,Landfilled,2010,12.608753
+1592,China,Landfilled,2011,13.849907
+1593,China,Landfilled,2012,15.017808
+1594,China,Landfilled,2013,16.20427
+1595,China,Landfilled,2014,17.638243
+1596,China,Landfilled,2015,18.98366
+1597,China,Landfilled,2016,20.235727
+1598,China,Landfilled,2017,21.578175
+1599,China,Landfilled,2018,22.391112
+1600,China,Landfilled,2019,23.809201
+1601,China,Mismanaged,2000,10.350894
+1602,China,Mismanaged,2001,11.011444
+1603,China,Mismanaged,2002,11.856329
+1604,China,Mismanaged,2003,12.626884
+1605,China,Mismanaged,2004,13.48346
+1606,China,Mismanaged,2005,14.150368
+1607,China,Mismanaged,2006,14.978694
+1608,China,Mismanaged,2007,15.803812
+1609,China,Mismanaged,2008,15.907054
+1610,China,Mismanaged,2009,16.354476
+1611,China,Mismanaged,2010,17.217424
+1612,China,Mismanaged,2011,17.758225
+1613,China,Mismanaged,2012,18.039241
+1614,China,Mismanaged,2013,18.188501
+1615,China,Mismanaged,2014,18.450719
+1616,China,Mismanaged,2015,18.448486
+1617,China,Mismanaged,2016,18.205877
+1618,China,Mismanaged,2017,17.901154
+1619,China,Mismanaged,2018,17.046953
+1620,China,Mismanaged,2019,17.462667
+1621,China,Littered,2000,0.06832
+1622,China,Littered,2001,0.074258
+1623,China,Littered,2002,0.082158
+1624,China,Littered,2003,0.089846
+1625,China,Littered,2004,0.09887
+1626,China,Littered,2005,0.106778
+1627,China,Littered,2006,0.116941
+1628,China,Littered,2007,0.12783
+1629,China,Littered,2008,0.131682
+1630,China,Littered,2009,0.139866
+1631,China,Littered,2010,0.153783
+1632,China,Littered,2011,0.165056
+1633,China,Littered,2012,0.175396
+1634,China,Littered,2013,0.18612
+1635,China,Littered,2014,0.197918
+1636,China,Littered,2015,0.209108
+1637,China,Littered,2016,0.217909
+1638,China,Littered,2017,0.22648
+1639,China,Littered,2018,0.230173
+1640,China,Littered,2019,0.239827
+1641,China,Total,2000,17.136013
+1642,China,Total,2001,18.77191
+1643,China,Total,2002,20.837561
+1644,China,Total,2003,22.903346
+1645,China,Total,2004,25.273294
+1646,China,Total,2005,27.441449
+1647,China,Total,2006,30.098347
+1648,China,Total,2007,32.954977
+1649,China,Total,2008,34.46512
+1650,China,Total,2009,36.891613
+1651,China,Total,2010,40.528126
+1652,China,Total,2011,43.707263
+1653,China,Total,2012,46.537666
+1654,China,Total,2013,49.317071
+1655,China,Total,2014,52.700633
+1656,China,Total,2015,55.753745
+1657,China,Total,2016,58.393067
+1658,China,Total,2017,61.162372
+1659,China,Total,2018,62.392517
+1660,China,Total,2019,65.438605
+1661,India,Recycled,2000,0.177113
+1662,India,Recycled,2001,0.213219
+1663,India,Recycled,2002,0.25786
+1664,India,Recycled,2003,0.306986
+1665,India,Recycled,2004,0.364581
+1666,India,Recycled,2005,0.424071
+1667,India,Recycled,2006,0.49559
+1668,India,Recycled,2007,0.576077
+1669,India,Recycled,2008,0.639663
+1670,India,Recycled,2009,0.723496
+1671,India,Recycled,2010,0.85249
+1672,India,Recycled,2011,0.985182
+1673,India,Recycled,2012,1.124309
+1674,India,Recycled,2013,1.284454
+1675,India,Recycled,2014,1.457559
+1676,India,Recycled,2015,1.623198
+1677,India,Recycled,2016,1.824238
+1678,India,Recycled,2017,2.039447
+1679,India,Recycled,2018,2.262457
+1680,India,Recycled,2019,2.469077
+1681,India,Incinerated,2000,0.058963
+1682,India,Incinerated,2001,0.069954
+1683,India,Incinerated,2002,0.083581
+1684,India,Incinerated,2003,0.098505
+1685,India,Incinerated,2004,0.116008
+1686,India,Incinerated,2005,0.134074
+1687,India,Incinerated,2006,0.155846
+1688,India,Incinerated,2007,0.180348
+1689,India,Incinerated,2008,0.199765
+1690,India,Incinerated,2009,0.225408
+1691,India,Incinerated,2010,0.264545
+1692,India,Incinerated,2011,0.304838
+1693,India,Incinerated,2012,0.347266
+1694,India,Incinerated,2013,0.396676
+1695,India,Incinerated,2014,0.45036
+1696,India,Incinerated,2015,0.499804
+1697,India,Incinerated,2016,0.561943
+1698,India,Incinerated,2017,0.629297
+1699,India,Incinerated,2018,0.700646
+1700,India,Incinerated,2019,0.770517
+1701,India,Landfilled,2000,0.87639
+1702,India,Landfilled,2001,0.99107
+1703,India,Landfilled,2002,1.132303
+1704,India,Landfilled,2003,1.280726
+1705,India,Landfilled,2004,1.451476
+1706,India,Landfilled,2005,1.619195
+1707,India,Landfilled,2006,1.82026
+1708,India,Landfilled,2007,2.041613
+1709,India,Landfilled,2008,2.199045
+1710,India,Landfilled,2009,2.415101
+1711,India,Landfilled,2010,2.75921
+1712,India,Landfilled,2011,3.101074
+1713,India,Landfilled,2012,3.45013
+1714,India,Landfilled,2013,3.853111
+1715,India,Landfilled,2014,4.283499
+1716,India,Landfilled,2015,4.662999
+1717,India,Landfilled,2016,5.145957
+1718,India,Landfilled,2017,5.66324
+1719,India,Landfilled,2018,6.200435
+1720,India,Landfilled,2019,6.720652
+1721,India,Mismanaged,2000,2.359011
+1722,India,Mismanaged,2001,2.567475
+1723,India,Mismanaged,2002,2.822789
+1724,India,Mismanaged,2003,3.072402
+1725,India,Mismanaged,2004,3.350256
+1726,India,Mismanaged,2005,3.595685
+1727,India,Mismanaged,2006,3.888038
+1728,India,Mismanaged,2007,4.193827
+1729,India,Mismanaged,2008,4.344496
+1730,India,Mismanaged,2009,4.587107
+1731,India,Mismanaged,2010,5.035518
+1732,India,Mismanaged,2011,5.436582
+1733,India,Mismanaged,2012,5.808127
+1734,India,Mismanaged,2013,6.225948
+1735,India,Mismanaged,2014,6.64171
+1736,India,Mismanaged,2015,6.936626
+1737,India,Mismanaged,2016,7.340763
+1738,India,Mismanaged,2017,7.743059
+1739,India,Mismanaged,2018,8.119849
+1740,India,Mismanaged,2019,8.457541
+1741,India,Littered,2000,0.020257
+1742,India,Littered,2001,0.022256
+1743,India,Littered,2002,0.024798
+1744,India,Littered,2003,0.027331
+1745,India,Littered,2004,0.030243
+1746,India,Littered,2005,0.032885
+1747,India,Littered,2006,0.036145
+1748,India,Littered,2007,0.039645
+1749,India,Littered,2008,0.041358
+1750,India,Littered,2009,0.044243
+1751,India,Littered,2010,0.049803
+1752,India,Littered,2011,0.055028
+1753,India,Littered,2012,0.060186
+1754,India,Littered,2013,0.066194
+1755,India,Littered,2014,0.072188
+1756,India,Littered,2015,0.076561
+1757,India,Littered,2016,0.082559
+1758,India,Littered,2017,0.088648
+1759,India,Littered,2018,0.094744
+1760,India,Littered,2019,0.100624
+1761,India,Total,2000,3.491734
+1762,India,Total,2001,3.863973
+1763,India,Total,2002,4.321331
+1764,India,Total,2003,4.78595
+1765,India,Total,2004,5.312565
+1766,India,Total,2005,5.80591
+1767,India,Total,2006,6.395879
+1768,India,Total,2007,7.031509
+1769,India,Total,2008,7.424327
+1770,India,Total,2009,7.995355
+1771,India,Total,2010,8.961566
+1772,India,Total,2011,9.882703
+1773,India,Total,2012,10.790019
+1774,India,Total,2013,11.826383
+1775,India,Total,2014,12.905315
+1776,India,Total,2015,13.799187
+1777,India,Total,2016,14.955459
+1778,India,Total,2017,16.163692
+1779,India,Total,2018,17.37813
+1780,India,Total,2019,18.518411
