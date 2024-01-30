@@ -1,0 +1,52 @@
+ /* Center-align text using CSS */
+  body {
+    text-align: center;
+    color: #000000; /* Text color (you can use color names, hexadecimal, RGB, etc.) */
+    font-family: 'Roboto', sans-serif; /* Font family (fallback to sans-serif if Arial is not available) */
+  }
+
+   /* Create a container with a max-width to center content */
+  .container {
+    max-width: 1000px; /* Adjust as needed */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add padding for spacing inside the container */
+  }
+
+  .styled-button {
+    background-color: #57CC99; /* Bright background color */
+    color: #ffffff; /* Text color */
+    padding: 15px 20px; /* Adjust padding for size */
+    font-size: 16px; /* Adjust font size */
+    border: none; /* Remove default border */
+    border-radius: 8px; /* Add rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+  }
+
+    /* Create a box around text */
+    .boxed-text {
+        border: 2px solid #333; /* Border style, width, and color */
+        padding: 100px; /* Add padding for spacing inside the box */
+        display: inline-block; /* Make the box inline with the text */
+      }
+
+  /* Example of different text colors and fonts for specific elements */
+  h1 {
+    color: #22557A; /* Dark Blue text color for h1 */
+    font-family: 'Roboto', sans-serif; /* Font family for h1 */
+  }
+
+  h2 {
+    color: #38A3A5; /* Light Blue text color for h1 */
+    font-family: 'Roboto', sans-serif; /* Font family for h1 */
+  }
+
+  p.special-text {
+    color: #000000; /* Black text color for paragraphs with class 'special-text' */
+    font-family: 'Roboto Slab', sans-serif; /* Font family for paragraphs with class 'special-text' */
+  }
+
+  li.special-text {
+    color: #000000; /* Black text color for list text with class 'special-text' */
+    font-family: 'Roboto Slab', sans-serif; /* Font family for list line with class 'special-text' */
+  }

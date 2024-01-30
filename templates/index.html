@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Does your water contain microplastics?</title>
+</head>
+<body>
+    <div class="container">
+    
+    <br>
+    <h1>What are microplastics?</h1>
+    <h2>Microplastics are plastic debris that are less than 5 millimeters 
+        in length (about the size of a pencil eraser)</h2>
+    <br>
+     <!-- Use the img element to insert an image -->
+    <img src="Images/Hands - Pencil 1.png" alt="Pencil">
+    <br>
+    <h1>Where do microplastics come from?</h1>
+    <h2>Microplastics come from many sources, including from larger plastic 
+        debris like plastic bottles that degrade into tiny pieces. 
+    </h2>
+    <br>
+    <img src="Images/Fitz - Bottle.png" alt="Plastic Bottle">
+    <h2>In addition, microbeads, a type of microplastic, are very tiny pieces of 
+        manufactured polyethylene plastic that are added as exfoliants to health and 
+        beauty products, such as some cleansers and toothpastes. These tiny particles 
+        easily pass through water filtration systems and end up in the ocean and Great Lakes.</h2>
+    <br>
+    <img src="Images/Lifesavers - Gel Soap.png" alt="Exfoliant">
+    <h1>Plastic pollution in oceans and rivers is a growing environmental hazard. 
+    </h1>
+    <h2>Plastic is increasingly accumulating on riverbanks, deltas, coastlines, and on the ocean surface. 
+        About 60% of all plastic ever made has been discarded in landfills or in the natural environment.</h2>
+
+    <br>
+    <div class='tableauPlaceholder' id='viz1706247168791' style='position: relative'><noscript>
+        <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalPlasticPollution2000-2019&#47;GlobalPlasticsStory&#47;1_rss.png' style='border: none' /></a>
+    </noscript>
+    <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+        <param name='embed_code_version' value='3' /> 
+        <param name='site_root' value='' />
+        <param name='name' value='GlobalPlasticPollution2000-2019&#47;GlobalPlasticsStory' />
+        <param name='tabs' value='yes' /><param name='toolbar' value='yes' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalPlasticPollution2000-2019&#47;GlobalPlasticsStory&#47;1.png' /> 
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+    </object>
+    </div>                
+    <script type='text/javascript'>
+        var divElement = document.getElementById('viz1706247168791');                    
+        var vizElement = divElement.getElementsByTagName('object')[0];                    
+        vizElement.style.width='1016px';vizElement.style.height='1014px';                    
+        var scriptElement = document.createElement('script');                    
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+    </script>
+    <br>    
+    <span class="boxed-text">
+        <img src="https://media4.giphy.com/media/26FKUf6xaZnevRT5C/giphy.gif" alt="microplastics">
+        <h1>Does your water contain microplastics?</h1>
+        <h2>Upload your photo and find out!</h2>
+        <p class="special-text">Take a picture of your water, like this. Crop to 128 by 128 px</p>
+        <img src="Images/x-Clean-00063.jpg" alt="clean water">
+        <br>
+        <br>
+        <form action="/predict" method="POST" enctype="multipart/form-data">
+            <div class="fieldset">
+                <br>
+                <input type="file" id="imageUpload" name="exp" accept=".jpg, .jpeg, .png" required>
+                <br>
+            </div>
+            <br>
+            <input type="submit" class="styled-button" value="Predict">
+        </form>
+    </span>
+
+
+    
+    <h1>Sources</h1>
+    
+    <ol>
+        <li class="special-text">M. Rochman, M. A. Browne, B. S. Halpern, B. T. Hentschel, E. Hoh, H. K. Karapanagioti, L. M. Rios-Mendoza, H. Takada, S. Teh, R. C. Thompson, Policy: Classify plastic waste as hazardous. Nature 494, 169–171 (2013).
+        </li>        
+        <li class="special-text">L. Lavers, A. L. Bond, Exceptional and rapid accumulation of anthropogenic debris on one of the world's most remote and pristine islands. Proc. Natl. Acad. Sci. U.S.A. 114, 6052–6055 (2017).
+        </li>        
+        <li class="special-text">Lebreton, B. Slat, F. Ferrari, B. Sainte-Rose, J. Aitken, R. Marthouse, S. Hajbane, S. Cunsolo, A. Schwarz, A. Levivier, K. Noble, P. Debeljak, H. Maral, R. Schoeneich-Argent, R. Brambini, J. Reisser, Evidence that the Great Pacific Garbage Patch is rapidly accumulating plastic. Sci. Rep. 8, 4666 (2018).
+        </li>        
+        <li class="special-text">Geyer, J. R. Jambeck, K. L. Law, Production, use, and fate of all plastics ever made. Sci. Adv. 3, e1700782 (2017).
+        </li>        
+        <li class="special-text">Lourens J. J. Meijer et al.,More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean.Sci. Adv.7,eaaz5803(2021).DOI:10.1126/sciadv.aaz5803</li>       
+    </ol>
+    </div>
+</body>
+</html>
