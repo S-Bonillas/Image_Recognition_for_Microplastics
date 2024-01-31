@@ -1,4 +1,4 @@
-![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/0ab281ec-c4f8-4875-b053-a8ccc59c229a)![app_image](https://www.tetratech.com/wp-content/uploads/2023/10/Evaluating-the-Risk-of-Microplastics-in-Coastal-Waters-One-Water.jpg)
+(https://www.tetratech.com/wp-content/uploads/2023/10/Evaluating-the-Risk-of-Microplastics-in-Coastal-Waters-One-Water.jpg)
 
 # Indisposable: Microplastic Detection and Avoidance
 ![MIT](https://img.shields.io/badge/License-MIT-C7F9CC)
