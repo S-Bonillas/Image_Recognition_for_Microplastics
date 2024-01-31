@@ -1,4 +1,4 @@
-![app_image](https://www.tetratech.com/wp-content/uploads/2023/10/Evaluating-the-Risk-of-Microplastics-in-Coastal-Waters-One-Water.jpg)
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/0ab281ec-c4f8-4875-b053-a8ccc59c229a)![app_image](https://www.tetratech.com/wp-content/uploads/2023/10/Evaluating-the-Risk-of-Microplastics-in-Coastal-Waters-One-Water.jpg)
 
 # Indisposable: Microplastic Detection and Avoidance
 ![MIT](https://img.shields.io/badge/License-MIT-C7F9CC)
@@ -32,6 +32,8 @@ The following need to be installed to successfully run the model and aPI.
 | sklearn     |          |
 | MobileNetV2 |          |
 
+A copy of Google Colab notebook is saved in the Github in the P4_MicroPystics.ipynb file. 
+- H5 and TR versions are also available on the Github.
 
 # Data
 
@@ -40,6 +42,26 @@ The following need to be installed to successfully run the model and aPI.
 - #### [Organisation for Economic CO-Operation and Development](https://stats.oecd.org/viewhtml.aspx?datasetcode=PLASTIC_WASTE_5&lang=en)
 
 # Results and evaluation
+With 781 image samples of microplastics and 781 control samples, our model reached an accuracy of 70.9% with 59.0% loss.
+
+Our model utilized Transfer Learning by using MobileNetV2.  The model iteself is Sequential, with four Dense Layers, combiled using Adam. And cooked for 50 epochs.  The layers are arranged a such:
+* Layer 1: 256 nodes, relu activation
+* Layer 2: 128 nodes, elu activation
+* Layer 3: 64 nodes, leaky_relu activation
+* Layer 4: 1 node, sigmoid activation
+
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/ac5aa13a-3489-405c-acdc-cf960f4e3be1)
+
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/e1ec5bd1-ae92-4284-a023-bc4f846e0a7c)
+
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/3008ef38-4c1c-412b-a4bd-e4fb4e0be80e)
+
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/968221cb-cdb9-4d6b-9f7b-c2ebf7665bf9)
+
+The model is decently reliable in finding microplastics, however it is prone to false positives.  Additional image data would be needed for more accurate predictions. 
+
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/513c759b-f789-4370-80e9-1a9e2360a545)
+![image](https://github.com/S-Bonillas/P4_Indispensible_ML_for_Microplastics/assets/137961214/c49e2556-f7bf-4253-8aea-2b4f2e48b2a0)
 
 
 ## License
