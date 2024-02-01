@@ -4,6 +4,8 @@
 ![MIT](https://img.shields.io/badge/License-MIT-C7F9CC)
 ![contributors](https://img.shields.io/badge/Contributors-5-38A3A5)
 
+## Project Video:
+https://drive.google.com/file/d/18GxVodW9RLRYxYJmZhYK57e5JMzLu4MM/view
 
 ## Description
  Using Machine Learning, Image Recognition, and Computer Vision to detect microplastics in water samples.
